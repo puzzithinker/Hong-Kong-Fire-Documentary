@@ -193,6 +193,7 @@ dev = [
     { name = "ruff" },
 ]
 docs = [
+    { name = "mkdocs" },
     { name = "mkdocs-material" },
     { name = "mkdocs-static-i18n" },
 ]
@@ -205,6 +206,7 @@ dev = [
     { name = "ruff", specifier = ">=0.14.7" },
 ]
 docs = [
+    { name = "mkdocs", specifier = ">=1.6.1" },
     { name = "mkdocs-material", specifier = ">=9.7.0" },
     { name = "mkdocs-static-i18n", specifier = ">=1.3.0" },
 ]

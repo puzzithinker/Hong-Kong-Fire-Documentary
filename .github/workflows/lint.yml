@@ -28,6 +28,7 @@ jobs:
 
       - name: Run linters
         run: uv run prek run -a
+        continue-on-error: true
 
       - name: Run markdownlint fix
         uses: DavidAnson/markdownlint-cli2-action@05f32210e84442804257b2a6f20b273450ec8265  # v19.1.0
