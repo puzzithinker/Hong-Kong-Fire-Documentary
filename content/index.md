@@ -4,6 +4,10 @@
 
 <div align="center" markdown="1">
 
+   ## ⚠️ **最新repo位置 / Latest Repository Address**  
+ 請 fork 原 repo 地址者重新 fork 此地址：  
+  [https://github.com/adminlby/Hong-Kong-Fire-Documentary](https://github.com/adminlby/Hong-Kong-Fire-Documentary)
+
 ## 📤 提交證據 / Submit Evidence
 
 [![提交資料 Submit Data](https://img.shields.io/badge/📝_提交資料_/_Submit_Data-Google_Form-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScQF_RKTDJNKE0xcyKRTmdKnSouRkQFciO2SiAtgMpA-TVHxQ/viewform)
