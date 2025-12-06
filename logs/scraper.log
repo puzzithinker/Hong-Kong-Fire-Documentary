@@ -1519,3 +1519,47 @@ pull request create failed: GraphQL: No commits between adminlby:main and hk-hac
 2025-12-07 01:47:24 | INFO     | Running scraper...
 2025-12-07 01:47:24 | ERROR    | Scraper error: No module named 'playwright'
 2025-12-07 01:47:25 | INFO     | Committing changes...
+2025-12-07 01:47:25 | ERROR    | Command failed: git commit -m chore(scraper): auto-scrape 2025-12-07 01:47
+2025-12-07 01:47:25 | ERROR    | stderr: 
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'hk-hack@fcy-mint.(none)')
+
+2025-12-07 01:47:25 | ERROR    | Failed to commit: Command '['git', 'commit', '-m', 'chore(scraper): auto-scrape 2025-12-07 01:47']' returned non-zero exit status 128.
+2025-12-07 01:47:26 | INFO     | Pushed to origin successfully
+2025-12-07 01:47:26 | INFO     | Sync cycle complete
+2025-12-07 01:47:26 | INFO     | ----------------------------------------
+2025-12-07 01:47:26 | INFO     | Starting PR cycle...
+2025-12-07 01:47:27 | INFO     | Pushed to origin successfully
+2025-12-07 01:47:27 | INFO     | Managing PR...
+2025-12-07 01:47:27 | INFO     | Daemon stopped by user
+2025-12-07 01:49:32 | INFO     | ============================================================
+2025-12-07 01:49:32 | INFO     | News Scraper Daemon Starting
+2025-12-07 01:49:32 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-07 01:49:32 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-07 01:49:32 | INFO     | Sync interval: 10 minutes
+2025-12-07 01:49:32 | INFO     | PR interval: 60 minutes
+2025-12-07 01:49:32 | INFO     | ============================================================
+2025-12-07 01:49:33 | INFO     | gh CLI authenticated
+2025-12-07 01:49:33 | INFO     | Setting up git remotes...
+2025-12-07 01:49:33 | INFO     | Configured origin remote
+2025-12-07 01:49:33 | INFO     | gh CLI authenticated
+2025-12-07 01:49:33 | INFO     | ----------------------------------------
+2025-12-07 01:49:33 | INFO     | Running periodic health check...
+2025-12-07 01:49:34 | INFO     | gh CLI authenticated
+2025-12-07 01:49:34 | INFO     | Health check passed
+2025-12-07 01:49:34 | INFO     | ----------------------------------------
+2025-12-07 01:49:34 | INFO     | Starting sync cycle...
+2025-12-07 01:49:34 | INFO     | Syncing with upstream...
+2025-12-07 01:49:34 | INFO     | Already up to date with upstream
+2025-12-07 01:49:34 | INFO     | Running scraper...
+2025-12-07 01:49:35 | ERROR    | Scraper error: No module named 'playwright'
+2025-12-07 01:49:35 | INFO     | Committing changes...
