@@ -2911,3 +2911,170 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-12-08 20:25:44 | INFO     | ensuring close
 2025-12-08 20:25:44 | INFO     | ensuring close
 2025-12-08 20:25:44 | INFO     | ensuring close
+2025-12-09 19:35:00 | INFO     | ============================================================
+2025-12-09 19:35:00 | INFO     | News Scraper Daemon Starting
+2025-12-09 19:35:00 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-09 19:35:00 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-09 19:35:00 | INFO     | Sync interval: 10 minutes
+2025-12-09 19:35:00 | INFO     | PR interval: 60 minutes
+2025-12-09 19:35:00 | INFO     | ============================================================
+2025-12-09 19:35:00 | INFO     | gh CLI authenticated
+2025-12-09 19:35:00 | INFO     | Setting up git remotes...
+2025-12-09 19:35:00 | INFO     | Configured origin remote
+2025-12-09 19:35:01 | INFO     | gh CLI authenticated
+2025-12-09 19:35:01 | INFO     | ----------------------------------------
+2025-12-09 19:35:01 | INFO     | Running periodic health check...
+2025-12-09 19:35:01 | INFO     | gh CLI authenticated
+2025-12-09 19:35:02 | INFO     | Health check passed
+2025-12-09 19:35:02 | INFO     | ----------------------------------------
+2025-12-09 19:35:02 | INFO     | Starting sync cycle...
+2025-12-09 19:35:02 | INFO     | Syncing with upstream...
+2025-12-09 19:35:03 | INFO     | Already up to date with upstream
+2025-12-09 19:35:03 | INFO     | Running scraper...
+2025-12-09 19:35:03 | INFO     | Found 1114 new URLs to scrape
+2025-12-09 19:35:07 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-09 19:35:08 | INFO     | setting properties for headless
+2025-12-09 19:35:22 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:35:23 | INFO     | setting properties for headless
+2025-12-09 19:35:25 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:35:26 | INFO     | setting properties for headless
+2025-12-09 19:35:37 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:35:38 | INFO     | setting properties for headless
+2025-12-09 19:35:42 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:35:43 | INFO     | setting properties for headless
+2025-12-09 19:35:57 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:36:00 | INFO     | setting properties for headless
+2025-12-09 19:36:14 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:36:16 | INFO     | setting properties for headless
+2025-12-09 19:36:30 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:36:31 | INFO     | setting properties for headless
+2025-12-09 19:36:47 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:36:48 | INFO     | setting properties for headless
+2025-12-09 19:37:02 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:37:04 | INFO     | setting properties for headless
+2025-12-09 19:37:19 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:37:20 | INFO     | setting properties for headless
+2025-12-09 19:37:34 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:37:36 | INFO     | setting properties for headless
+2025-12-09 19:37:50 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:37:51 | INFO     | setting properties for headless
+2025-12-09 19:38:05 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:38:07 | INFO     | setting properties for headless
+2025-12-09 19:38:21 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:38:22 | INFO     | setting properties for headless
+2025-12-09 19:38:36 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:38:37 | INFO     | setting properties for headless
+2025-12-09 19:38:50 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:38:52 | INFO     | setting properties for headless
+2025-12-09 19:39:06 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:39:07 | INFO     | setting properties for headless
+2025-12-09 19:39:21 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:39:22 | INFO     | setting properties for headless
+2025-12-09 19:39:36 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:39:38 | INFO     | setting properties for headless
+2025-12-09 19:39:52 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:39:53 | INFO     | setting properties for headless
+2025-12-09 19:40:07 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:40:08 | INFO     | setting properties for headless
+2025-12-09 19:40:25 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:40:26 | INFO     | setting properties for headless
+2025-12-09 19:40:40 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:40:42 | INFO     | setting properties for headless
+2025-12-09 19:40:56 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:40:57 | INFO     | setting properties for headless
+2025-12-09 19:41:11 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:41:12 | INFO     | setting properties for headless
+2025-12-09 19:41:26 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:41:27 | INFO     | setting properties for headless
+2025-12-09 19:41:42 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:41:43 | INFO     | setting properties for headless
+2025-12-09 19:41:57 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:41:58 | INFO     | setting properties for headless
+2025-12-09 19:42:12 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:42:13 | INFO     | setting properties for headless
+2025-12-09 19:42:27 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:42:28 | INFO     | setting properties for headless
+2025-12-09 19:42:42 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:42:43 | INFO     | setting properties for headless
+2025-12-09 19:42:57 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:42:59 | INFO     | setting properties for headless
+2025-12-09 19:43:13 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:43:14 | INFO     | setting properties for headless
+2025-12-09 19:43:28 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:43:29 | INFO     | setting properties for headless
+2025-12-09 19:43:43 | WARNING  | could not detect version_main.therefore, we are assuming it is chrome 108 or higher
+2025-12-09 19:43:44 | INFO     | setting properties for headless
+2025-12-09 20:13:44 | ERROR    | Scraper error: BrowserContext.new_page: Target page, context or browser has been closed
+2025-12-09 20:13:44 | INFO     | Committing changes...
+2025-12-09 20:13:54 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-09 20:13
+2025-12-09 20:14:33 | INFO     | Pushed to origin successfully
+2025-12-09 20:14:33 | INFO     | Sync cycle complete
+2025-12-09 20:14:33 | INFO     | ----------------------------------------
+2025-12-09 20:14:33 | INFO     | Starting PR cycle...
+2025-12-09 20:14:34 | INFO     | Pushed to origin successfully
+2025-12-09 20:14:34 | INFO     | Managing PR...
+2025-12-09 20:14:39 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-09 20:14:39 | INFO     | PR cycle complete
+2025-12-09 20:14:39 | INFO     | Run once mode, exiting...
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:39 | INFO     | ensuring close
+2025-12-09 20:14:48 | INFO     | ============================================================
+2025-12-09 20:14:48 | INFO     | News Scraper Daemon Starting
+2025-12-09 20:14:48 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-09 20:14:48 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-09 20:14:48 | INFO     | Sync interval: 10 minutes
+2025-12-09 20:14:48 | INFO     | PR interval: 60 minutes
+2025-12-09 20:14:48 | INFO     | ============================================================
+2025-12-09 20:14:49 | INFO     | gh CLI authenticated
+2025-12-09 20:14:49 | INFO     | Setting up git remotes...
+2025-12-09 20:14:49 | INFO     | Configured origin remote
+2025-12-09 20:14:49 | INFO     | gh CLI authenticated
+2025-12-09 20:14:49 | INFO     | ----------------------------------------
+2025-12-09 20:14:49 | INFO     | Running periodic health check...
+2025-12-09 20:14:50 | INFO     | gh CLI authenticated
+2025-12-09 20:14:50 | INFO     | Health check passed
+2025-12-09 20:14:50 | INFO     | ----------------------------------------
+2025-12-09 20:14:50 | INFO     | Starting sync cycle...
+2025-12-09 20:14:50 | INFO     | Syncing with upstream...
+2025-12-09 20:14:51 | INFO     | Already up to date with upstream
+2025-12-09 20:14:51 | INFO     | Running scraper...
+2025-12-09 20:14:52 | INFO     | Found 663 new URLs to scrape
+2025-12-09 20:15:16 | INFO     | Daemon stopped by user
+2025-12-09 20:15:16 | INFO     | ensuring close
+2025-12-09 20:15:17 | ERROR    | Task was destroyed but it is pending!
+task: <Task cancelling name='Task-1' coro=<run_scraper_async() running at C:\y\Hong-Kong-Fire-Documentary-i\scripts\scrapers\content_scraper\scraper.py:533> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[gather.<locals>._done_callback() at C:\Users\user\AppData\Local\Programs\Python\Python314\Lib\asyncio\tasks.py:810]>

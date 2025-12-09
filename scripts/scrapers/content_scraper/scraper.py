@@ -290,7 +290,7 @@ def scrape_with_uc(url: str, config: dict) -> tuple[str, bool]:
         element = WebDriverWait(driver, 10).until(
            EC.visibility_of_element_located((By.XPATH, "/html/body/div[7]/div/div[1]/div[4]"))
         )
-        content = element.get_attribute("innerHTML")
+        content = element.get_attribute("outerHTML")
         check_content = element.text
         if check_content.find("訂戶登入") > -1:
             log(f"Need Subscriber Login")
