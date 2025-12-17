@@ -47,7 +47,7 @@ async def _scrape_async():
                     if link and title_raw and len(title_raw.strip()) > 5:
                         title_clean = " ".join(title_raw.split())
 
-                        news_source_orignial = re.search(r"Yahoo新聞", title_clean)
+                        news_source_orignial = re.search(r"Yahoo新聞", title_clean) or re.search(r"Yahoo 新聞", title_clean)
                         if not news_source_orignial:
                             continue
 

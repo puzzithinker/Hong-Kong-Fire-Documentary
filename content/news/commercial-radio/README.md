@@ -498,3 +498,10 @@
 - [胡英明取消赴多哈出席會議　留港監督五級火調查工作](https://www.881903.com/news/local/2610416/) [Original](https://www.881903.com/news/local/2610416/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/胡英明取消赴多哈出席會議-留港監督五級火調查工作/){.md-button .hkfd-news-button}
 - [宏福苑業主立案法團押後原定明晚全體委員會議](https://www.881903.com/news/local/2610402/) [Original](https://www.881903.com/news/local/2610402/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑業主立案法團押後原定明晚全體委員會議/){.md-button .hkfd-news-button}
 - [李家超料下午向習近平述職　交代本港政經情況](https://www.881903.com/news/local/2610386/) [Original](https://www.881903.com/news/local/2610386/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/李家超料下午向習近平述職-交代本港政經情況/){.md-button .hkfd-news-button}
+
+
+### 2025-12-17
+- [房協澄清宏福苑居民應急住屋安排沒居住期限](https://www.881903.com/news/local/2610664/) [Original](https://www.881903.com/news/local/2610664/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/房協澄清宏福苑居民應急住屋安排沒居住期限/){.md-button .hkfd-news-button}
+- [消息：廉署拘捕宏福苑新舊業主立案法團主席調查](https://www.881903.com/news/local/2610647/) [Original](https://www.881903.com/news/local/2610647/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消息廉署拘捕宏福苑新舊業主立案法團主席調查/){.md-button .hkfd-news-button}
+- [毛樂禮：沈春耀關心大埔火災　相信政府會妥善處理](https://www.881903.com/news/local/2610591/) [Original](https://www.881903.com/news/local/2610591/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/毛樂禮沈春耀關心大埔火災-相信政府會妥善處理/){.md-button .hkfd-news-button}
+- [習近平晤李家超無提及「全力支持」   譚耀宗：不可能不支持](https://www.881903.com/news/local/2610574/) [Original](https://www.881903.com/news/local/2610574/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/習近平晤李家超無提及全力支持-譚耀宗不可能不支持/){.md-button .hkfd-news-button}

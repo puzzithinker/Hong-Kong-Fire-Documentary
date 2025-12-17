@@ -787,3 +787,7 @@
 ### 2025-12-16
 - [宏福苑五級火｜政務司司長明確指示所有部門積極配合獨立委員會](https://news.rthk.hk/rthk/ch/component/k2/1836376-20251216.htm?archive_date=2025-12-16) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836376-20251216.htm?archive_date=2025-12-16){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政務司司長明確指示所有部門積極配合獨立委員會/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜消防處針對正大維修大廈主動檢查消防警鐘系統運作](https://news.rthk.hk/rthk/ch/component/k2/1836360-20251216.htm?archive_date=2025-12-16) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836360-20251216.htm?archive_date=2025-12-16){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處針對正大維修大廈主動檢查消防警鐘系統運作/){.md-button .hkfd-news-button}
+
+
+### 2025-12-17
+- [宏福苑五級火｜據了解廉署拘捕宏福苑業主立案法團現任及前任主席](https://news.rthk.hk/rthk/ch/component/k2/1836496-20251217.htm?archive_date=2025-12-17) [Original](https://news.rthk.hk/rthk/ch/component/k2/1836496-20251217.htm?archive_date=2025-12-17){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火據了解廉署拘捕宏福苑業主立案法團現任及前任主席/){.md-button .hkfd-news-button}

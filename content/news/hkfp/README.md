@@ -137,3 +137,7 @@
 - [Jimmy Lai verdict: Gov’t slams journalist union for ‘whitewashing’ media tycoon, as foreign press club silent](https://hongkongfp.com/?p=547381) [Original](https://hongkongfp.com/?p=547381){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/jimmy-lai-verdict-govt-slams-journalist-union-for-whitewashing-media-tycoon-as/){.md-button .hkfd-news-button}
 - [Tai Po blaze: First owners’ meeting since blaze postponed, as gov’t vows to extend visas of fired domestic workers](https://hongkongfp.com/?p=547356) [Original](https://hongkongfp.com/?p=547356){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-blaze-first-owners-meeting-since-blaze-postponed-as-govt-vows-to-extend/){.md-button .hkfd-news-button}
 - [Jimmy Lai to face ‘endless imprisonment’: Gov’t bureaus hail tycoon’s nat. security conviction](https://hongkongfp.com/?p=547383) [Original](https://hongkongfp.com/?p=547383){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/jimmy-lai-to-face-endless-imprisonment-govt-bureaus-hail-tycoons-nat-security/){.md-button .hkfd-news-button}
+
+
+### 2025-12-17
+- [Tai Po fire timeline: Wang Fuk Court’s HK$330 million renovation, ignored warnings and aftermath](https://hongkongfp.com/?p=546773) [Original](https://hongkongfp.com/?p=546773){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-timeline-wang-fuk-courts-hk330-million-renovation-ignored-warnings/){.md-button .hkfd-news-button}

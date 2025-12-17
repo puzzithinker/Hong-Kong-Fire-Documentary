@@ -3887,3 +3887,40 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-12-15 20:39:02 | ERROR    | Future exception was never retrieved
 future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
 playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2025-12-16 23:55:12 | INFO     | ============================================================
+2025-12-16 23:55:12 | INFO     | News Scraper Daemon Starting
+2025-12-16 23:55:12 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-16 23:55:12 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-16 23:55:12 | INFO     | Sync interval: 10 minutes
+2025-12-16 23:55:12 | INFO     | PR interval: 60 minutes
+2025-12-16 23:55:12 | INFO     | ============================================================
+2025-12-16 23:55:13 | INFO     | gh CLI authenticated
+2025-12-16 23:55:13 | INFO     | Setting up git remotes...
+2025-12-16 23:55:13 | INFO     | Configured origin remote
+2025-12-16 23:55:13 | INFO     | gh CLI authenticated
+2025-12-16 23:55:14 | INFO     | ----------------------------------------
+2025-12-16 23:55:14 | INFO     | Running periodic health check...
+2025-12-16 23:55:14 | INFO     | gh CLI authenticated
+2025-12-16 23:55:14 | INFO     | Health check passed
+2025-12-16 23:55:14 | INFO     | ----------------------------------------
+2025-12-16 23:55:14 | INFO     | Starting sync cycle...
+2025-12-16 23:55:14 | INFO     | Syncing with upstream...
+2025-12-16 23:55:15 | INFO     | Already up to date with upstream
+2025-12-16 23:55:15 | INFO     | Running scraper...
+2025-12-16 23:55:15 | INFO     | Found 103 new URLs to scrape
+2025-12-16 23:56:04 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-16 23:58:21 | INFO     | Updated cumulative stats: 1479 success, 75 failed across 11 cycles
+2025-12-16 23:58:21 | INFO     | Scraper results: 102 success, 1 failed
+2025-12-16 23:58:21 | INFO     | Committing changes...
+2025-12-16 23:58:24 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-16 23:58
+2025-12-16 23:58:32 | INFO     | Pushed to origin successfully
+2025-12-16 23:58:32 | INFO     | Sync cycle complete
+2025-12-16 23:58:32 | INFO     | ----------------------------------------
+2025-12-16 23:58:32 | INFO     | Starting PR cycle...
+2025-12-16 23:58:33 | INFO     | Pushed to origin successfully
+2025-12-16 23:58:33 | INFO     | Managing PR...
+2025-12-16 23:58:38 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-16 23:58:38 | INFO     | PR cycle complete
+2025-12-16 23:58:38 | INFO     | Run once mode, exiting...
+2025-12-16 23:58:38 | INFO     | ensuring close

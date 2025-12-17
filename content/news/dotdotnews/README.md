@@ -200,3 +200,16 @@
 
 ### 2025-12-16
 - [宏福苑五級火｜1906戶領取10萬元生活津貼　房屋局正對樓宇作初步結構評估](https://www.dotdotnews.com/a/202512/16/AP6941539be4b0c32d4f6374ad.html) [Original](https://www.dotdotnews.com/a/202512/16/AP6941539be4b0c32d4f6374ad.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火1906戶領取10萬元生活津貼-房屋局正對樓宇作初步結構評估/){.md-button .hkfd-news-button}
+
+
+### 2025-12-17
+- [Wang Fuk Court fire | Residents concern over irregular operations of Owners' Corporation, urge govt's intervention](https://english.dotdotnews.com/a/202512/17/AP69425134e4b0c32d4f638317.html) [Original](https://english.dotdotnews.com/a/202512/17/AP69425134e4b0c32d4f638317.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-residents-concern-over-irregular-operations-of-owners/){.md-button .hkfd-news-button}
+
+
+### 2025-12-15
+- [宏福苑五級火｜孫玉菡：已向110名受僱外傭提供2萬元特別補助](https://www.dotdotnews.com/a/202512/15/AP693ff771e4b0c32d4f6357ba.html) [Original](https://www.dotdotnews.com/a/202512/15/AP693ff771e4b0c32d4f6357ba.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火孫玉菡已向110名受僱外傭提供2萬元特別補助/){.md-button .hkfd-news-button}
+
+### 2025-12-17
+- [點觀香港｜宏福苑火災調查有新進展　傳廉署拘捕新舊法團主席](https://www.dotdotnews.com/a/202512/17/AP69429a8ee4b0c32d4f638b32.html) [Original](https://www.dotdotnews.com/a/202512/17/AP69429a8ee4b0c32d4f638b32.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點觀香港宏福苑火災調查有新進展-傳廉署拘捕新舊法團主席/){.md-button .hkfd-news-button}
+- [（有片）宏福苑五級火｜廉署再拘捕兩人　消息指為新舊業主立案法團主席](https://www.dotdotnews.com/a/202512/17/AP6942796de4b0c32d4f6386bf.html) [Original](https://www.dotdotnews.com/a/202512/17/AP6942796de4b0c32d4f6386bf.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火廉署再拘捕兩人-消息指為新舊業主立案法團主席/){.md-button .hkfd-news-button}
+- [消息：明年次季推8300伙居屋　市值7折含啟德市區盤](https://www.dotdotnews.com/a/202512/17/AP69424d0de4b0c32d4f6382af.html) [Original](https://www.dotdotnews.com/a/202512/17/AP69424d0de4b0c32d4f6382af.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消息明年次季推8300伙居屋-市值7折含啟德市區盤/){.md-button .hkfd-news-button}
