@@ -513,3 +513,14 @@
 - [醫管局：17名宏福苑大火傷者仍留醫](https://www.881903.com/news/local/2610822/) [Original](https://www.881903.com/news/local/2610822/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/醫管局17名宏福苑大火傷者仍留醫/){.md-button .hkfd-news-button}
 - [大律師公會將就火災設研究小組　初步方向包括就圍標訂專屬罪行](https://www.881903.com/news/local/2610780/) [Original](https://www.881903.com/news/local/2610780/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大律師公會將就火災設研究小組-初步方向包括就圍標訂專屬罪行/){.md-button .hkfd-news-button}
 - [元朗錦綉花園業主請願　要求修例助成立業主立案法團](https://www.881903.com/news/local/2610760/) [Original](https://www.881903.com/news/local/2610760/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/元朗錦綉花園業主請願-要求修例助成立業主立案法團/){.md-button .hkfd-news-button}
+
+
+### 2025-12-19
+- [林定國：政府須主動助查宏福苑大火 配合獨立委員會](https://www.881903.com/news/local/2611004/) [Original](https://www.881903.com/news/local/2611004/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林定國政府須主動助查宏福苑大火-配合獨立委員會/){.md-button .hkfd-news-button}
+- [政府申請解散宏福苑法團管委會　委任華懋旗下公司管理](https://www.881903.com/news/local/2610995/) [Original](https://www.881903.com/news/local/2610995/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府申請解散宏福苑法團管委會-委任華懋旗下公司管理/){.md-button .hkfd-news-button}
+- [宏福苑火災獨立委員會召開第一次會議](https://www.881903.com/news/local/2610997/) [Original](https://www.881903.com/news/local/2610997/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災獨立委員會召開第一次會議/){.md-button .hkfd-news-button}
+- [消防處為何偉豪舉行最高榮譽喪禮　下葬浩園](https://www.881903.com/news/local/2610903/) [Original](https://www.881903.com/news/local/2610903/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處為何偉豪舉行最高榮譽喪禮-下葬浩園/){.md-button .hkfd-news-button}
+- [宏福苑租戶：搬遷補助不足　未知長期安置政策唯有「見步行步」](https://www.881903.com/news/local/2610955/) [Original](https://www.881903.com/news/local/2610955/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑租戶搬遷補助不足-未知長期安置政策唯有見步行步/){.md-button .hkfd-news-button}
+- [機管局：機場同業向宏福苑援助基金　捐贈逾2000萬](https://www.881903.com/news/local/2610923/) [Original](https://www.881903.com/news/local/2610923/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/機管局機場同業向宏福苑援助基金-捐贈逾2000萬/){.md-button .hkfd-news-button}
+- [麥美娟：宏褔苑居民想搬回大埔　政府向業主提供租金補助](https://www.881903.com/news/local/2610909/) [Original](https://www.881903.com/news/local/2610909/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟宏褔苑居民想搬回大埔-政府向業主提供租金補助/){.md-button .hkfd-news-button}
+- [彭穎生獲委任為民安隊處長　任期兩年](https://www.881903.com/news/local/2610899/) [Original](https://www.881903.com/news/local/2610899/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/彭穎生獲委任為民安隊處長-任期兩年/){.md-button .hkfd-news-button}
