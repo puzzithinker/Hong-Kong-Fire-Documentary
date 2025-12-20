@@ -89,10 +89,25 @@
 | 未明時間    | 特首李家超委任法官陸啟康為獨立委員會主席，9個月內完成報告        | -                          | [香港01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60297831/) |
 | **12月14日**|                                                                     |                            |          |
 | 15:05        | 確認獨立委員會成員，包括陳健波及歐陽伯權 | 160死79傷，6失蹤         | [香港01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60297831/) |
+| **12月15日** |                                                                     |                                   |          |
+| 17:13        | 消防處公布殉職消防隊目（追授）何偉豪終年37歲，遺下家人              | 161死79傷（含新增夫婦遺骸）        | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60297831/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E6%9C%80%E6%96%B0-1%E9%81%BA%E9%AA%B8%E7%9B%97%E5%A4%AB%E5%A6%BBDNA-%E5%A2%9E%E8%87%B3161%E6%AD%BB%E4%B8%8D%E6%8E%92%E9%99%A4%E6%AD%BB%E4%BA%A1%E6%95%B8%E4%B8%8A%E5%8D%87) |
+| **12月16日** |                                                                     |                                   |          |
+| 20:40        | 房屋局獨立審查組完成抽取7座樓宇混凝土芯，展開初步結構評估           | -                                 | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60297831/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E6%9C%80%E6%96%B0-1%E9%81%BA%E9%AA%B8%E7%9B%97%E5%A4%AB%E5%A6%BBDNA-%E5%A2%9E%E8%87%B3161%E6%AD%BB%E4%B8%8D%E6%8E%92%E9%99%A4%E6%AD%BB%E4%BA%A1%E6%95%B8%E4%B8%8A%E5%8D%87) |
+| **12月17日** |                                                                     |                                   |          |
+| 19:30        | 宏福苑業主立案法團舉行全體委員會議，議程包括火災前消防系統狀況、保險索償進度、帳目、承辦商合約、特別業主大會等 | - | [HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60297831/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E6%9C%80%E6%96%B0-1%E9%81%BA%E9%AA%B8%E7%9B%97%E5%A4%AB%E5%A6%BBDNA-%E5%A2%9E%E8%87%B3161%E6%AD%BB%E4%B8%8D%E6%8E%92%E9%99%A4%E6%AD%BB%E4%BA%A1%E6%95%B8%E4%B8%8A%E5%8D%87) |
+| **12月18日** |                                                                     |                                   |          |
+| 12:00        | 灵車抵達大埔，消防員鞠躬致意，舉行路祭                              | -                                 | [Now新聞](https://news.now.com/home/local/player?newsId=630219) |
+| **12月19日** |                                                                     |                                   |          |
+| 11:00        | 警務處處長周一鳴宣布，經DNA鑑證，一具遺骸發現另一人DNA，證實為一對夫婦，死亡人數增至161人 | 161死79傷，6人失聯（已全數確認） | [Yahoo新聞](https://hk.news.yahoo.com/%E5%AE%8F%E8%A4%94%E8%8B%91%E5%A4%A7%E7%81%AB%E5%A2%9E%E8%87%B3161%E4%BA%BA%E7%BD%B9%E9%9B%A3-1%E5%85%B7%E9%81%BA%E9%AA%B8%E7%99%BC%E7%8F%BE%E5%A4%AB%E5%A6%BBDNA-054202384.html)[Now新聞](https://news.now.com/home/local/player?newsId=630219)[HK01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60305379/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-1%E9%81%BA%E9%AA%B8%E7%99%BC%E7%8F%BE%E5%A4%AB%E5%A6%BBDNA-%E5%A2%9E%E8%87%B3161%E6%AD%BB6%E5%A4%B1%E8%81%AF%E5%80%8B%E6%A1%88%E5%B7%B2%E5%85%A8%E6%95%B8%E7%80%8E%E8%AA%8D) |
+| 19:00        | 保監局公布賠付金額逾2.57億元，人壽保險方面涉及10660張保單           | -                                 | [文匯報](https://www.wenweipo.com/s/202512/19/AP6945349fe4b0bf0d4e646b06.html) |
+| 21:00        | 援助基金總額達38億元，用於協助居民重建家園                          | -                                 | [HKCD](https://www.hkcd.com.hk/hkcdweb/content/2025/12/19/content_8731660.html) |
+| **12月20日** |                                                                     |                                   |          |
+| 11:00        | 警方證實死亡人數再增至161人，所有失聯個案已完成辨認                  | 161死79傷，6人失聯已全數確認      | [BAU](https://bau.com.hk/web/article/1451995059558498304/web/content_1451995059558498304.html)[Yahoo新聞](https://hk.news.yahoo.com/%E5%AE%8F%E8%A4%94%E8%8B%91%E5%A4%A7%E7%81%AB%E5%A2%9E%E8%87%B3161%E4%BA%BA%E7%BD%B9%E9%9B%A3-1%E5%85%B7%E9%81%BA%E9%AA%B8%E7%99%BC%E7%8F%BE%E5%A4%AB%E5%A6%BBDNA-054202384.html) |
+| 15:00        | 大埔浸信會公立學校仍封，教育局安排學生在大埔官立小學和博愛醫院等地復課 | -                                 | [HK01](https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60305441/%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BD-%E5%A4%A7%E5%9F%94%E6%B5%B8%E4%BF%A1%E6%9C%83%E5%85%AC%E7%AB%8B%E5%AD%B8%E6%A0%A1%E4%BB%8D%E5%B0%81%E4%B8%8B%E5%AD%B8%E5%B9%B4%E4%BD%BF%E7%94%A8%E5%89%8D%E5%9F%BA%E6%AD%A3%E5%B0%8F%E5%AD%B8) |
 
 ---
 
-**資料截至：2025年12月14日**
+**資料截至：2025年12月20日**
 
 **資料來源**：
 [維基百科](https://zh.wikipedia.org/zh-hant/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB) [SBS時間線](https://www.sbs.com.au/language/chinese/zh-hant/article/hong-kong-residential-tower-fire-timeline/xey8t7kt2) [英文維基](https://en.wikipedia.org/wiki/Wang_Fuk_Court_fire) [東方日報](https://www.orientalsunday.hk/%E6%9C%80%E6%96%B0%E5%A8%9B%E8%81%9E/%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BD-%E7%81%AB%E8%AD%A6%E9%90%98-%E7%B6%AD%E4...) [香港01](https://www.hk01.com/%E7%AA%81%E7%99%BC/60298585/%E5%AE%8F%E7%A6%8F%E8%8B%91%E5%A4%A7%E7%81%AB-%E6%99%82%E5%BA%8F-%E7%84%A1%E6%8...)
