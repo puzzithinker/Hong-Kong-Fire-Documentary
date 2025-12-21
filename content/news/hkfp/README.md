@@ -156,5 +156,9 @@
 
 
 ### 2025-12-20
-- [HKFP Monitor Dec 20, 2025: Tracking Hong Kong gov’t’s reactions to foreign media; Jimmy Lai’s 855-page ruling](https://hongkongfp.com/?p=548014)
-- [After deadly Tai Po fire, Hong Kong’s urban redevelopment body has no room for complacency](https://hongkongfp.com/?p=547480)
+- [HKFP Monitor Dec 20, 2025: Tracking Hong Kong gov’t’s reactions to foreign media; Jimmy Lai’s 855-page ruling](https://hongkongfp.com/?p=548014) [Original](https://hongkongfp.com/?p=548014){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hkfp-monitor-dec-20-2025-tracking-hong-kong-govts-reactions-to-foreign-media/){.md-button .hkfd-news-button}
+- [After deadly Tai Po fire, Hong Kong’s urban redevelopment body has no room for complacency](https://hongkongfp.com/?p=547480) [Original](https://hongkongfp.com/?p=547480){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/after-deadly-tai-po-fire-hong-kongs-urban-redevelopment-body-has-no-room-for/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [Tai Po fire: Domestic workers pick up the pieces amid emotional trauma, job loss](https://hongkongfp.com/?p=547369) [Original](https://hongkongfp.com/?p=547369){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-domestic-workers-pick-up-the-pieces-amid-emotional-trauma-job-loss/){.md-button .hkfd-news-button}

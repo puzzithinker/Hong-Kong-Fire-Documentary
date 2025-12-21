@@ -530,8 +530,15 @@
 - [大埔宏福苑援助基金累計增至40億元](https://www.881903.com/news/local/2611144/) [Original](https://www.881903.com/news/local/2611144/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑援助基金累計增至40億元/){.md-button .hkfd-news-button}
 - [律師會於啟德「啟福居」為宏福苑家庭提供免費法律意見](https://www.881903.com/news/local/2611142/) [Original](https://www.881903.com/news/local/2611142/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/律師會於啟德啟福居為宏福苑家庭提供免費法律意見/){.md-button .hkfd-news-button}
 - [宏福苑大火｜大埔浸信會公立學校　下學年使用前基正小學校舍](https://www.881903.com/news/local/2611101/) [Original](https://www.881903.com/news/local/2611101/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火大埔浸信會公立學校-下學年使用前基正小學校舍/){.md-button .hkfd-news-button}
-- [警務處副處長葉雲龍：火災善後困難重重　需為逝者守公義](https://www.881903.com/news/local/2611065/)
+- [警務處副處長葉雲龍：火災善後困難重重　需為逝者守公義](https://www.881903.com/news/local/2611065/) [Original](https://www.881903.com/news/local/2611065/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/警務處副處長葉雲龍火災善後困難重重-需為逝者守公義/){.md-button .hkfd-news-button}
 - [麥美娟籲大埔區業主勿「趁火打劫」](https://www.881903.com/news/local/2611076/) [Original](https://www.881903.com/news/local/2611076/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/麥美娟籲大埔區業主勿趁火打劫/){.md-button .hkfd-news-button}
 - [大埔民政專員穿黑白緊身裙出席路祭　對引起關注致歉](https://www.881903.com/news/local/2611071/) [Original](https://www.881903.com/news/local/2611071/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔民政專員穿黑白緊身裙出席路祭-對引起關注致歉/){.md-button .hkfd-news-button}
 - [宏福苑大火｜一具遺體上發現多一人DNA　增至161死](https://www.881903.com/news/local/2611067/) [Original](https://www.881903.com/news/local/2611067/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火一具遺體上發現多一人dna-增至161死/){.md-button .hkfd-news-button}
 - [宏福苑大火｜葉劉淑儀：政府應檢討內部是否權責不清](https://www.881903.com/news/local/2611063/) [Original](https://www.881903.com/news/local/2611063/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑大火葉劉淑儀政府應檢討內部是否權責不清/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [善導會：宏福苑居民搬離「善樓」時 可按需要帶走傢電](https://www.881903.com/news/local/2611208/) [Original](https://www.881903.com/news/local/2611208/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/善導會宏福苑居民搬離善樓時-可按需要帶走傢電/){.md-button .hkfd-news-button}
+- [冬至市民花逾千元做節　稱大火事件啟發要珍惜團聚機會](https://www.881903.com/news/local/2611191/) [Original](https://www.881903.com/news/local/2611191/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/冬至市民花逾千元做節-稱大火事件啟發要珍惜團聚機會/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜麥美娟：合安非取代法團權力　不會放生持責者](https://www.881903.com/news/local/2611177/) [Original](https://www.881903.com/news/local/2611177/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火麥美娟合安非取代法團權力-不會放生持責者/){.md-button .hkfd-news-button}
+- [曾國衞：立法會選舉順利舉行　正分類無效票暫不評估原因](https://www.881903.com/news/local/2611181/) [Original](https://www.881903.com/news/local/2611181/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞立法會選舉順利舉行-正分類無效票暫不評估原因/){.md-button .hkfd-news-button}

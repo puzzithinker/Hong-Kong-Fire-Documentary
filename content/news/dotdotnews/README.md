@@ -244,3 +244,14 @@
 
 ### 2025-12-20
 - [Wang Fuk Court fire | Death toll rises to 161, Commissioner of Police says](https://english.dotdotnews.com/a/202512/20/AP6946288ae4b0c32d4f63cd3a.html) [Original](https://english.dotdotnews.com/a/202512/20/AP6946288ae4b0c32d4f63cd3a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/wang-fuk-court-fire-death-toll-rises-to-161-commissioner-of-police-says/){.md-button .hkfd-news-button}
+
+
+### 2025-12-20
+- [點漫畫｜烈火英雄](https://www.dotdotnews.com/a/202512/20/AP69467067e4b0c32d4f63d3e5.html) [Original](https://www.dotdotnews.com/a/202512/20/AP69467067e4b0c32d4f63d3e5.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/點漫畫烈火英雄/){.md-button .hkfd-news-button}
+- [（有片）宏福苑五級火｜罹難者增至161人　1遺體發現2夫婦DNA](https://www.dotdotnews.com/a/202512/20/AP694614d3e4b0c32d4f63cb40.html) [Original](https://www.dotdotnews.com/a/202512/20/AP694614d3e4b0c32d4f63cb40.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火罹難者增至161人-1遺體發現2夫婦dna/){.md-button .hkfd-news-button}
+
+### 2025-12-21
+- [宏福苑五級火｜偕張繼聰方力申等現身「善樓」盆菜宴　古天樂為居民送關懷](https://www.dotdotnews.com/a/202512/21/AP6947c821e4b0c32d4f63e7bb.html) [Original](https://www.dotdotnews.com/a/202512/21/AP6947c821e4b0c32d4f63e7bb.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火偕張繼聰方力申等現身善樓盆菜宴-古天樂為居民送關懷/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜元朗路德會過渡性房屋增設巴士往返大埔墟站（附詳情）](https://www.dotdotnews.com/a/202512/21/AP6947cf76e4b0c32d4f63e807.html) [Original](https://www.dotdotnews.com/a/202512/21/AP6947cf76e4b0c32d4f63e807.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火元朗路德會過渡性房屋增設巴士往返大埔墟站附詳情/){.md-button .hkfd-news-button}
+- [來論｜宏福苑火災獨立委員會：務實高效的嶄新調查模式](https://www.dotdotnews.com/a/202512/21/AP69475ef4e4b0c32d4f63def7.html) [Original](https://www.dotdotnews.com/a/202512/21/AP69475ef4e4b0c32d4f63def7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑火災獨立委員會務實高效的嶄新調查模式/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜房屋局：捐贈予受影響居民物資一般可於遷出時帶走](https://www.dotdotnews.com/a/202512/21/AP6947f0b3e4b0c32d4f63e9a4.html) [Original](https://www.dotdotnews.com/a/202512/21/AP6947f0b3e4b0c32d4f63e9a4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火房屋局捐贈予受影響居民物資一般可於遷出時帶走/){.md-button .hkfd-news-button}
