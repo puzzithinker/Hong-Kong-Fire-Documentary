@@ -162,3 +162,11 @@
 
 ### 2025-12-21
 - [Tai Po fire: Domestic workers pick up the pieces amid emotional trauma, job loss](https://hongkongfp.com/?p=547369) [Original](https://hongkongfp.com/?p=547369){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-domestic-workers-pick-up-the-pieces-amid-emotional-trauma-job-loss/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [Tai Po fire: Death toll climbs to 161 as forensic tests show remains belonged to 2 people](https://hongkongfp.com/?p=548084) [Original](https://hongkongfp.com/?p=548084){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-death-toll-climbs-to-161-as-forensic-tests-show-remains-belonged-to/){.md-button .hkfd-news-button}
+
+### 2025-12-22
+- [Hong Kong press union head denies money was ‘primary motivation’ for suing former employer Wall St Journal](https://hongkongfp.com/?p=548222) [Original](https://hongkongfp.com/?p=548222){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-press-union-head-denies-money-was-primary-motivation-for-suing-former/){.md-button .hkfd-news-button}
+- [Tai Po fire: First remains of Indonesian, Filipina domestic workers repatriated; 8 others expected this week](https://hongkongfp.com/?p=548129) [Original](https://hongkongfp.com/?p=548129){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-first-remains-of-indonesian-filipina-domestic-workers-repatriated-8/){.md-button .hkfd-news-button}

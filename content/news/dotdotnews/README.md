@@ -255,3 +255,9 @@
 - [宏福苑五級火｜元朗路德會過渡性房屋增設巴士往返大埔墟站（附詳情）](https://www.dotdotnews.com/a/202512/21/AP6947cf76e4b0c32d4f63e807.html) [Original](https://www.dotdotnews.com/a/202512/21/AP6947cf76e4b0c32d4f63e807.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火元朗路德會過渡性房屋增設巴士往返大埔墟站附詳情/){.md-button .hkfd-news-button}
 - [來論｜宏福苑火災獨立委員會：務實高效的嶄新調查模式](https://www.dotdotnews.com/a/202512/21/AP69475ef4e4b0c32d4f63def7.html) [Original](https://www.dotdotnews.com/a/202512/21/AP69475ef4e4b0c32d4f63def7.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/來論宏福苑火災獨立委員會務實高效的嶄新調查模式/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜房屋局：捐贈予受影響居民物資一般可於遷出時帶走](https://www.dotdotnews.com/a/202512/21/AP6947f0b3e4b0c32d4f63e9a4.html) [Original](https://www.dotdotnews.com/a/202512/21/AP6947f0b3e4b0c32d4f63e9a4.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火房屋局捐贈予受影響居民物資一般可於遷出時帶走/){.md-button .hkfd-news-button}
+
+
+### 2025-12-22
+- [宏福苑五級火｜牙醫業界免費鑲配假牙服務協助受影響居民](https://www.dotdotnews.com/a/202512/22/AP694923bbe4b0c32d4f63fc5e.html) [Original](https://www.dotdotnews.com/a/202512/22/AP694923bbe4b0c32d4f63fc5e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火牙醫業界免費鑲配假牙服務協助受影響居民/){.md-button .hkfd-news-button}
+- [講真D｜解散宏福苑法團管委會合情合理合法](https://www.dotdotnews.com/a/202512/22/AP6948fccee4b0c32d4f63f989.html) [Original](https://www.dotdotnews.com/a/202512/22/AP6948fccee4b0c32d4f63f989.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d解散宏福苑法團管委會合情合理合法/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜大廈維修分段關閉消防設備是否可行？消防處澄清](https://www.dotdotnews.com/a/202512/22/AP69492855e4b0c32d4f63fcac.html) [Original](https://www.dotdotnews.com/a/202512/22/AP69492855e4b0c32d4f63fcac.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火大廈維修分段關閉消防設備是否可行消防處澄清/){.md-button .hkfd-news-button}

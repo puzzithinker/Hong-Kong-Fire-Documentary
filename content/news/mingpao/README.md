@@ -1453,7 +1453,7 @@
 
 ### 20251221
 - [大埔宏福苑五級火｜災民不滿搬離過渡屋不能帶走獲贈傢電 善導會晚上改變安排  容許住戶帶走](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251221/s00001/1766295322425) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251221/s00001/1766295322425){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑五級火災民不滿搬離過渡屋不能帶走獲贈傢電-善導會晚上改變安排-容許住戶帶走/){.md-button .hkfd-news-button}
-- [大埔宏福苑五級火｜一名遇難外傭遺體今運返印尼](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251221/s00001/1766314204559)
+- [大埔宏福苑五級火｜一名遇難外傭遺體今運返印尼](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251221/s00001/1766314204559) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251221/s00001/1766314204559){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑五級火一名遇難外傭遺體今運返印尼/){.md-button .hkfd-news-button}
 - [林家棟首演舞台正劇 《等待果陀》周邊收益捐助大埔災民](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251221/s00007/1766310175848) [Original](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251221/s00007/1766310175848){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/林家棟首演舞台正劇-等待果陀周邊收益捐助大埔災民/){.md-button .hkfd-news-button}
 - [大埔宏福苑五級火｜麥美娟：委任臨時管理人並非要「放生某些人」 強調無取走業主權力](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251221/s00001/1766284510551) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251221/s00001/1766284510551){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑五級火麥美娟委任臨時管理人並非要放生某些人-強調無取走業主權力/){.md-button .hkfd-news-button}
 - [甯漢豪：建築例將修 可討論官派維修商 罰款大增加強蒐證 要求檢視分判制](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251221/s00002/1766253709626) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251221/s00002/1766253709626){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪建築例將修-可討論官派維修商-罰款大增加強蒐證-要求檢視分判制/){.md-button .hkfd-news-button}
@@ -1469,3 +1469,23 @@
 - [周日話題：一無所有：香港的集體居住小史](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20251221/s00005/1766246437946) [Original](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20251221/s00005/1766246437946){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周日話題一無所有香港的集體居住小史/){.md-button .hkfd-news-button}
 - [未來城市：聽不見警鐘、看不見天日 殘障人士走火警 障礙重重](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20251221/s00005/1766246452979) [Original](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20251221/s00005/1766246452979){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/未來城市聽不見警鐘看不見天日-殘障人士走火警-障礙重重/){.md-button .hkfd-news-button}
 - [快捷、有效、知情權 / 林妙茵](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251221/s00018/1766246455064) [Original](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251221/s00018/1766246455064){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/快捷有效知情權-林妙茵/){.md-button .hkfd-news-button}
+
+### 20251222
+- [大埔宏福苑五級火｜牙醫業提供免費鑲配假牙及口腔治療服務](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251222/s00001/1766395677624) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251222/s00001/1766395677624){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑五級火牙醫業提供免費鑲配假牙及口腔治療服務/){.md-button .hkfd-news-button}
+- [慧妍雅集籌款晚會明年3.21舉行 密切關注大埔宏福苑災後情况](https://news.mingpao.com/ins/%e5%a8%9b%e6%a8%82/article/20251222/s00007/1766395735270)
+- [政府申解散宏福苑法團管委會 排期明年1月6日聆訊](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251222/s00001/1766385786505)
+- [大埔宏福苑五級火｜學生指港大拒借場辦悼念 校方：按既定指引作評估](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251222/s00001/1766329999433)
+- [防煙門被鎖長開 荃灣大鴻輝隱患多  本報發現涉逾半樓層  街坊：商戶「走鬼」騙過巡查](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251222/s00001/1766340239788)
+- [兆萬9層有隱患  專家憂舊廈走火道難疏散](https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20251222/s00001/1766340240271)
+- [再無妻打點做節 鰥夫憶冬至哽咽 「若可以重來，只願和你逛街買菜」](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251222/s00002/1766340242600)
+- [搬離過渡房不准帶家電惹議 善樓營運機構轉軚：家電可按需帶走](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251222/s00002/1766340242828)
+- [外傭遺體本周陸續送返家鄉](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251222/s00002/1766340243026)
+- [主動被動式消防設備 由多部門分管 業界信消防機制有效 倡加強協作](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251222/s00002/1766340243350)
+- [話你知：消防裝置擁有人須確保操作正常 聘承辦商年檢](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251222/s00002/1766340243516)
+- [因「不可抗力因素」 港大學生撤悼念](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251222/s00002/1766340243611)
+- [五級火倘揭官員疏忽 陳祖光：支持特首問責到底](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251222/s00002/1766340243992)
+- [舞台劇紀念品收益全數捐大埔災民 林家棟籲大眾好好活下去](https://news.mingpao.com/pns/%e5%a8%9b%e6%a8%82/article/20251222/s00016/1766334305436)
+- [醫徹中西：中西醫同心支援災民](https://news.mingpao.com/pns/%e5%89%af%e5%88%8a/article/20251222/s00005/1766334311964)
+- [邱勇：廿年教訓成空？宏福苑悲劇與未竟的建業圖新](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20251222/s00012/1766334287218)
+- [徐小龍：從「天價」恐懼到「低價」隱患：重構樓宇維修的信任與底線](https://news.mingpao.com/pns/%e8%a7%80%e9%bb%9e/article/20251222/s00012/1766334287317)
+- [死總是輕於鴻毛 / 陳增濤](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251222/s00018/1766334314390)

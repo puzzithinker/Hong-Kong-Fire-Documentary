@@ -791,3 +791,15 @@
 - [政府申請解散宏福苑法團管委會　麥美娟：不會剝奪業主權力](https://news.now.com/home/local/player?newsId=630288) [Original](https://news.now.com/home/local/player?newsId=630288){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府申請解散宏福苑法團管委會-麥美娟不會剝奪業主權力/){.md-button .hkfd-news-button}
 - [政府申請解散宏福苑法團管委會　麥美娟：非取走業主權力](https://news.now.com/home/local/player?newsId=630275) [Original](https://news.now.com/home/local/player?newsId=630275){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府申請解散宏福苑法團管委會-麥美娟非取走業主權力/){.md-button .hkfd-news-button}
 - [宏福苑五級大火｜消防員親歷火場搜救　組義工隊工餘助居民過渡屋展新生活](https://news.now.com/home/local/player?newsId=630271) [Original](https://news.now.com/home/local/player?newsId=630271){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級大火消防員親歷火場搜救-組義工隊工餘助居民過渡屋展新生活/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [宏福苑五級火災｜善導會改稱善樓遷離災民可按需要帶走傢電　房屋局：明確捐贈居民的物資可帶走](https://news.now.com/home/local/player?newsId=630337) [Original](https://news.now.com/home/local/player?newsId=630337){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災善導會改稱善樓遷離災民可按需要帶走傢電-房屋局明確捐贈居民的物資可帶走/){.md-button .hkfd-news-button}
+- [即日焦點｜中九龍繞道通車　記者實測啟德到高鐵站需時8分鐘／冬至酒樓指旺丁不旺財](https://news.now.com/home/local/player?newsId=630333) [Original](https://news.now.com/home/local/player?newsId=630333){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/即日焦點中九龍繞道通車-記者實測啟德到高鐵站需時8分鐘冬至酒樓指旺丁不旺財/){.md-button .hkfd-news-button}
+
+### 2025-12-22
+- [宏福苑五級火災｜大埔宏福苑援助基金累計達41億元](https://news.now.com/home/local/player?newsId=630458) [Original](https://news.now.com/home/local/player?newsId=630458){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災大埔宏福苑援助基金累計達41億元/){.md-button .hkfd-news-button}
+- [時事全方位｜政府入稟解散宏福苑法團管委會(二)](https://news.now.com/home/local/player?newsId=630364) [Original](https://news.now.com/home/local/player?newsId=630364){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位政府入稟解散宏福苑法團管委會二/){.md-button .hkfd-news-button}
+- [時事全方位｜政府入稟解散宏福苑法團管委會(一)](https://news.now.com/home/local/player?newsId=630363) [Original](https://news.now.com/home/local/player?newsId=630363){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位政府入稟解散宏福苑法團管委會一/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜善導會：善樓無電梯需動用很多義工搬大型傢電　原想下批災民即時有傢電使用　](https://news.now.com/home/local/player?newsId=630385) [Original](https://news.now.com/home/local/player?newsId=630385){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災善導會善樓無電梯需動用很多義工搬大型傢電-原想下批災民即時有傢電使用/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜梁宏正：災民即日起可獲發租金補助及搬遷津貼　解散法團管委會不削業主權](https://news.now.com/home/local/player?newsId=630384) [Original](https://news.now.com/home/local/player?newsId=630384){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災梁宏正災民即日起可獲發租金補助及搬遷津貼-解散法團管委會不削業主權/){.md-button .hkfd-news-button}

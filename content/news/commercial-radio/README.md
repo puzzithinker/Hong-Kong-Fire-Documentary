@@ -542,3 +542,16 @@
 - [冬至市民花逾千元做節　稱大火事件啟發要珍惜團聚機會](https://www.881903.com/news/local/2611191/) [Original](https://www.881903.com/news/local/2611191/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/冬至市民花逾千元做節-稱大火事件啟發要珍惜團聚機會/){.md-button .hkfd-news-button}
 - [宏福苑5級火｜麥美娟：合安非取代法團權力　不會放生持責者](https://www.881903.com/news/local/2611177/) [Original](https://www.881903.com/news/local/2611177/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火麥美娟合安非取代法團權力-不會放生持責者/){.md-button .hkfd-news-button}
 - [曾國衞：立法會選舉順利舉行　正分類無效票暫不評估原因](https://www.881903.com/news/local/2611181/) [Original](https://www.881903.com/news/local/2611181/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/曾國衞立法會選舉順利舉行-正分類無效票暫不評估原因/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [宏福苑5級火丨一名罹難外傭遺體被運返印尼](https://www.881903.com/news/local/2611248/) [Original](https://www.881903.com/news/local/2611248/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨一名罹難外傭遺體被運返印尼/){.md-button .hkfd-news-button}
+
+### 2025-12-22
+- [醫衞局明起向宏福苑災民  提供免費鑲配假牙及口腔治療服務](https://www.881903.com/news/local/2611404/) [Original](https://www.881903.com/news/local/2611404/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/醫衞局明起向宏福苑災民-提供免費鑲配假牙及口腔治療服務/){.md-button .hkfd-news-button}
+- [消防處： 大廈維修工程人員無權關閉消防裝置](https://www.881903.com/news/local/2611399/) [Original](https://www.881903.com/news/local/2611399/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處-大廈維修工程人員無權關閉消防裝置/){.md-button .hkfd-news-button}
+- [蔡若蓮：正提速翻新基正小學　讓埔浸盡快全面復常](https://www.881903.com/news/local/2611372/) [Original](https://www.881903.com/news/local/2611372/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/蔡若蓮正提速翻新基正小學-讓埔浸盡快全面復常/){.md-button .hkfd-news-button}
+- [港大聯院會取消宏福苑悼念活動　港大：與學生代表保持溝通](https://www.881903.com/news/local/2611345/) [Original](https://www.881903.com/news/local/2611345/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/港大聯院會取消宏福苑悼念活動-港大與學生代表保持溝通/){.md-button .hkfd-news-button}
+- [善導會：原本禁災民帶走捐贈傢電　是希望讓下一戶受惠](https://www.881903.com/news/local/2611313/) [Original](https://www.881903.com/news/local/2611313/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/善導會原本禁災民帶走捐贈傢電-是希望讓下一戶受惠/){.md-button .hkfd-news-button}
+- [物管業：政府解散宏褔苑現有法團管委會適時及恰當](https://www.881903.com/news/local/2611298/) [Original](https://www.881903.com/news/local/2611298/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/物管業政府解散宏褔苑現有法團管委會適時及恰當/){.md-button .hkfd-news-button}
+- [宏福苑火災｜台灣團隊來港協助修復遺體　冀助家屬告別摯親](https://www.881903.com/news/local/2611347/) [Original](https://www.881903.com/news/local/2611347/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災台灣團隊來港協助修復遺體-冀助家屬告別摯親/){.md-button .hkfd-news-button}
