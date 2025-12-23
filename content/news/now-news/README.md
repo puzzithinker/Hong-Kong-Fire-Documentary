@@ -803,3 +803,11 @@
 - [時事全方位｜政府入稟解散宏福苑法團管委會(一)](https://news.now.com/home/local/player?newsId=630363) [Original](https://news.now.com/home/local/player?newsId=630363){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/時事全方位政府入稟解散宏福苑法團管委會一/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜善導會：善樓無電梯需動用很多義工搬大型傢電　原想下批災民即時有傢電使用　](https://news.now.com/home/local/player?newsId=630385) [Original](https://news.now.com/home/local/player?newsId=630385){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災善導會善樓無電梯需動用很多義工搬大型傢電-原想下批災民即時有傢電使用/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜梁宏正：災民即日起可獲發租金補助及搬遷津貼　解散法團管委會不削業主權](https://news.now.com/home/local/player?newsId=630384) [Original](https://news.now.com/home/local/player?newsId=630384){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災梁宏正災民即日起可獲發租金補助及搬遷津貼-解散法團管委會不削業主權/){.md-button .hkfd-news-button}
+
+
+### 2025-12-23
+- [聖誕文告｜周守仁：災後聖誕意味出路清晰　陳謳明：聖誕信息發出極大光明](https://news.now.com/home/local/player?newsId=630581) [Original](https://news.now.com/home/local/player?newsId=630581){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聖誕文告周守仁災後聖誕意味出路清晰-陳謳明聖誕信息發出極大光明/){.md-button .hkfd-news-button}
+- [工權會：今年職業死亡人數118人　按年增55%](https://news.now.com/home/local/player?newsId=630539) [Original](https://news.now.com/home/local/player?newsId=630539){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工權會今年職業死亡人數118人-按年增55/){.md-button .hkfd-news-button}
+- [屯門怡樂花園考慮有條件續聘宏業　須更新保證金證明及取回履約保證書](https://news.now.com/home/local/player?newsId=630506) [Original](https://news.now.com/home/local/player?newsId=630506){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/屯門怡樂花園考慮有條件續聘宏業-須更新保證金證明及取回履約保證書/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜獨立委員會成員到現場視察](https://news.now.com/home/local/player?newsId=630505) [Original](https://news.now.com/home/local/player?newsId=630505){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災獨立委員會成員到現場視察/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜紅十字會累收逾4.2億元捐款　通過專屬八達通卡向災民提供經濟等支援](https://news.now.com/home/local/player?newsId=630500) [Original](https://news.now.com/home/local/player?newsId=630500){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災紅十字會累收逾42億元捐款-通過專屬八達通卡向災民提供經濟等支援/){.md-button .hkfd-news-button}

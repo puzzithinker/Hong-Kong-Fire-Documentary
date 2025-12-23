@@ -555,3 +555,13 @@
 - [善導會：原本禁災民帶走捐贈傢電　是希望讓下一戶受惠](https://www.881903.com/news/local/2611313/) [Original](https://www.881903.com/news/local/2611313/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/善導會原本禁災民帶走捐贈傢電-是希望讓下一戶受惠/){.md-button .hkfd-news-button}
 - [物管業：政府解散宏褔苑現有法團管委會適時及恰當](https://www.881903.com/news/local/2611298/) [Original](https://www.881903.com/news/local/2611298/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/物管業政府解散宏褔苑現有法團管委會適時及恰當/){.md-button .hkfd-news-button}
 - [宏福苑火災｜台灣團隊來港協助修復遺體　冀助家屬告別摯親](https://www.881903.com/news/local/2611347/) [Original](https://www.881903.com/news/local/2611347/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑火災台灣團隊來港協助修復遺體-冀助家屬告別摯親/){.md-button .hkfd-news-button}
+
+
+### 2025-12-23
+- [陳謳明發表聖誕文告　指大埔火災看見香港人耀眼光輝](https://www.881903.com/news/local/2611561/) [Original](https://www.881903.com/news/local/2611561/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/陳謳明發表聖誕文告-指大埔火災看見香港人耀眼光輝/){.md-button .hkfd-news-button}
+- [黃偉綸：冀以組合拳方式　讓宏福苑居民選擇住宿安排](https://www.881903.com/news/local/2611542/) [Original](https://www.881903.com/news/local/2611542/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/黃偉綸冀以組合拳方式-讓宏福苑居民選擇住宿安排/){.md-button .hkfd-news-button}
+- [宏福苑居民領租金補助需承諾不遷回單位](https://www.881903.com/news/local/2611522/) [Original](https://www.881903.com/news/local/2611522/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑居民領租金補助需承諾不遷回單位/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜獨立委員會首次到現場視察](https://www.881903.com/news/local/2611473/) [Original](https://www.881903.com/news/local/2611473/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火獨立委員會首次到現場視察/){.md-button .hkfd-news-button}
+- [工權會：今年職業死亡數字達118人　接年增55%](https://www.881903.com/news/local/2611464/) [Original](https://www.881903.com/news/local/2611464/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工權會今年職業死亡數字達118人-接年增55/){.md-button .hkfd-news-button}
+- [周守仁樞機發表聖誕文告　指火災讓人意識生命脆弱](https://www.881903.com/news/local/2611480/) [Original](https://www.881903.com/news/local/2611480/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周守仁樞機發表聖誕文告-指火災讓人意識生命脆弱/){.md-button .hkfd-news-button}
+- [博愛醫院：宏福苑災民遷出過渡性房屋時  可帶走可移動物資](https://www.881903.com/news/local/2611411/) [Original](https://www.881903.com/news/local/2611411/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/博愛醫院宏福苑災民遷出過渡性房屋時-可帶走可移動物資/){.md-button .hkfd-news-button}

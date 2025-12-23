@@ -4116,3 +4116,44 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-12-21 22:22:46 | INFO     | ensuring close
 2025-12-21 22:22:46 | INFO     | ensuring close
 2025-12-21 22:22:46 | INFO     | ensuring close
+2025-12-22 21:55:00 | INFO     | ============================================================
+2025-12-22 21:55:00 | INFO     | News Scraper Daemon Starting
+2025-12-22 21:55:00 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-22 21:55:00 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-22 21:55:00 | INFO     | Sync interval: 10 minutes
+2025-12-22 21:55:00 | INFO     | PR interval: 60 minutes
+2025-12-22 21:55:00 | INFO     | ============================================================
+2025-12-22 21:55:01 | INFO     | gh CLI authenticated
+2025-12-22 21:55:01 | INFO     | Setting up git remotes...
+2025-12-22 21:55:01 | INFO     | Configured origin remote
+2025-12-22 21:55:02 | INFO     | gh CLI authenticated
+2025-12-22 21:55:02 | INFO     | ----------------------------------------
+2025-12-22 21:55:02 | INFO     | Running periodic health check...
+2025-12-22 21:55:03 | INFO     | gh CLI authenticated
+2025-12-22 21:55:03 | INFO     | Health check passed
+2025-12-22 21:55:03 | INFO     | ----------------------------------------
+2025-12-22 21:55:03 | INFO     | Starting sync cycle...
+2025-12-22 21:55:03 | INFO     | Syncing with upstream...
+2025-12-22 21:55:04 | INFO     | Already up to date with upstream
+2025-12-22 21:55:04 | INFO     | Running scraper...
+2025-12-22 21:55:04 | INFO     | Found 88 new URLs to scrape
+2025-12-22 21:55:43 | INFO     | patching driver executable C:\Users\user\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-12-22 22:00:00 | ERROR    | Scraper error: BrowserContext.new_page: Target page, context or browser has been closed
+2025-12-22 22:00:01 | INFO     | Committing changes...
+2025-12-22 22:00:03 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-22 22:00
+2025-12-22 22:00:08 | INFO     | Pushed to origin successfully
+2025-12-22 22:00:08 | INFO     | Sync cycle complete
+2025-12-22 22:00:08 | INFO     | ----------------------------------------
+2025-12-22 22:00:08 | INFO     | Starting PR cycle...
+2025-12-22 22:00:09 | INFO     | Pushed to origin successfully
+2025-12-22 22:00:09 | INFO     | Managing PR...
+2025-12-22 22:00:11 | INFO     | PR #23 exists, updating description with fresh stats...
+2025-12-22 22:00:14 | INFO     | Updated PR #23 with fresh stats
+2025-12-22 22:00:14 | INFO     | PR cycle complete
+2025-12-22 22:00:14 | INFO     | Run once mode, exiting...
+2025-12-22 22:00:14 | INFO     | ensuring close
+2025-12-22 22:00:14 | INFO     | ensuring close
+2025-12-22 22:00:14 | INFO     | ensuring close
+2025-12-22 22:00:14 | INFO     | ensuring close
+2025-12-22 22:00:14 | INFO     | ensuring close
+2025-12-22 22:00:14 | INFO     | ensuring close

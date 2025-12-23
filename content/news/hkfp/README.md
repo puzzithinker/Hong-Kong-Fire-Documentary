@@ -170,3 +170,10 @@
 ### 2025-12-22
 - [Hong Kong press union head denies money was ‘primary motivation’ for suing former employer Wall St Journal](https://hongkongfp.com/?p=548222) [Original](https://hongkongfp.com/?p=548222){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/hong-kong-press-union-head-denies-money-was-primary-motivation-for-suing-former/){.md-button .hkfd-news-button}
 - [Tai Po fire: First remains of Indonesian, Filipina domestic workers repatriated; 8 others expected this week](https://hongkongfp.com/?p=548129) [Original](https://hongkongfp.com/?p=548129){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-first-remains-of-indonesian-filipina-domestic-workers-repatriated-8/){.md-button .hkfd-news-button}
+
+
+### 2025-12-22
+- [Tai Po blaze: NGO backtracks on rule for displaced residents to leave appliances in temporary housing](https://hongkongfp.com/?p=548201) [Original](https://hongkongfp.com/?p=548201){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-blaze-ngo-backtracks-on-rule-for-displaced-residents-to-leave-appliances/){.md-button .hkfd-news-button}
+
+### 2025-12-23
+- [University of Hong Kong denies fire vigil venue, citing instability, ‘force majeure’](https://hongkongfp.com/?p=548333) [Original](https://hongkongfp.com/?p=548333){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/university-of-hong-kong-denies-fire-vigil-venue-citing-instability-force-majeure/){.md-button .hkfd-news-button}

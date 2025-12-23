@@ -261,3 +261,8 @@
 - [宏福苑五級火｜牙醫業界免費鑲配假牙服務協助受影響居民](https://www.dotdotnews.com/a/202512/22/AP694923bbe4b0c32d4f63fc5e.html) [Original](https://www.dotdotnews.com/a/202512/22/AP694923bbe4b0c32d4f63fc5e.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火牙醫業界免費鑲配假牙服務協助受影響居民/){.md-button .hkfd-news-button}
 - [講真D｜解散宏福苑法團管委會合情合理合法](https://www.dotdotnews.com/a/202512/22/AP6948fccee4b0c32d4f63f989.html) [Original](https://www.dotdotnews.com/a/202512/22/AP6948fccee4b0c32d4f63f989.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/講真d解散宏福苑法團管委會合情合理合法/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜大廈維修分段關閉消防設備是否可行？消防處澄清](https://www.dotdotnews.com/a/202512/22/AP69492855e4b0c32d4f63fcac.html) [Original](https://www.dotdotnews.com/a/202512/22/AP69492855e4b0c32d4f63fcac.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火大廈維修分段關閉消防設備是否可行消防處澄清/){.md-button .hkfd-news-button}
+
+
+### 2025-12-23
+- [宏福苑五級火｜政府向災民發放生活津貼及慰問殮葬金　已處理所有確認個案](https://www.dotdotnews.com/a/202512/23/AP694a9082e4b0c32d4f64137a.html) [Original](https://www.dotdotnews.com/a/202512/23/AP694a9082e4b0c32d4f64137a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政府向災民發放生活津貼及慰問殮葬金-已處理所有確認個案/){.md-button .hkfd-news-button}
+- [（有片）宏福苑五級火｜香港紅十字會籌逾4.2億支援中長期復原　派2000餘張專屬八達通智慧賑災](https://www.dotdotnews.com/a/202512/23/AP694a634ae4b0c32d4f640fb9.html) [Original](https://www.dotdotnews.com/a/202512/23/AP694a634ae4b0c32d4f640fb9.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火香港紅十字會籌逾42億支援中長期復原-派2000餘張專屬八達通智慧賑災/){.md-button .hkfd-news-button}
