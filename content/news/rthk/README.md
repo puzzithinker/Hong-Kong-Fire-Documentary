@@ -873,3 +873,8 @@
 - [宏福苑五級火｜紅十字會收逾4.2億捐款　2.4億用於現金援助](https://news.rthk.hk/rthk/ch/component/k2/1837252-20251223.htm?archive_date=2025-12-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837252-20251223.htm?archive_date=2025-12-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火紅十字會收逾42億捐款-24億用於現金援助/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜獨立委員會實地了解消防裝置、維修物料及施工安全](https://news.rthk.hk/rthk/ch/component/k2/1837233-20251223.htm?archive_date=2025-12-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837233-20251223.htm?archive_date=2025-12-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火獨立委員會實地了解消防裝置維修物料及施工安全/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜獨立委員會成員在消防人員陪同下到火災現場視察](https://news.rthk.hk/rthk/ch/component/k2/1837226-20251223.htm?archive_date=2025-12-23) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837226-20251223.htm?archive_date=2025-12-23){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火獨立委員會成員在消防人員陪同下到火災現場視察/){.md-button .hkfd-news-button}
+
+
+### 2025-12-24
+- [宏福苑五級火｜警方再拘一男涉誤殺　為外牆工程分判商負責人](https://news.rthk.hk/rthk/ch/component/k2/1837428-20251224.htm?archive_date=2025-12-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837428-20251224.htm?archive_date=2025-12-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警方再拘一男涉誤殺-為外牆工程分判商負責人/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜逾4600多名居民住在酒店、青年宿舍或過渡屋等](https://news.rthk.hk/rthk/ch/component/k2/1837413-20251224.htm?archive_date=2025-12-24) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837413-20251224.htm?archive_date=2025-12-24){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火逾4600多名居民住在酒店青年宿舍或過渡屋等/){.md-button .hkfd-news-button}

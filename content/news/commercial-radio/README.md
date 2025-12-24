@@ -565,3 +565,11 @@
 - [工權會：今年職業死亡數字達118人　接年增55%](https://www.881903.com/news/local/2611464/) [Original](https://www.881903.com/news/local/2611464/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/工權會今年職業死亡數字達118人-接年增55/){.md-button .hkfd-news-button}
 - [周守仁樞機發表聖誕文告　指火災讓人意識生命脆弱](https://www.881903.com/news/local/2611480/) [Original](https://www.881903.com/news/local/2611480/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/周守仁樞機發表聖誕文告-指火災讓人意識生命脆弱/){.md-button .hkfd-news-button}
 - [博愛醫院：宏福苑災民遷出過渡性房屋時  可帶走可移動物資](https://www.881903.com/news/local/2611411/) [Original](https://www.881903.com/news/local/2611411/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/博愛醫院宏福苑災民遷出過渡性房屋時-可帶走可移動物資/){.md-button .hkfd-news-button}
+
+
+### 2025-12-24
+- [宏福苑5級火丨多1人涉誤殺　為外牆工程分判商負責人](https://www.881903.com/news/local/2611723/) [Original](https://www.881903.com/news/local/2611723/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨多1人涉誤殺-為外牆工程分判商負責人/){.md-button .hkfd-news-button}
+- [消防處巡查132幢商廈　提出53宗檢控](https://www.881903.com/news/local/2611718/) [Original](https://www.881903.com/news/local/2611718/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防處巡查132幢商廈-提出53宗檢控/){.md-button .hkfd-news-button}
+- [中環巨型聖誕樹吸引大批人打卡　內地遊客稱香港聖誕氣氛濃厚](https://www.881903.com/news/local/2611704/) [Original](https://www.881903.com/news/local/2611704/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/中環巨型聖誕樹吸引大批人打卡-內地遊客稱香港聖誕氣氛濃厚/){.md-button .hkfd-news-button}
+- [宏福苑5級火丨警方再確認兩隻貓狗遺骸](https://www.881903.com/news/local/2611686/) [Original](https://www.881903.com/news/local/2611686/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火丨警方再確認兩隻貓狗遺骸/){.md-button .hkfd-news-button}
+- [餐飲業料聖誕假期餐廳營業額較去年跌一成](https://www.881903.com/news/local/2611641/) [Original](https://www.881903.com/news/local/2611641/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/餐飲業料聖誕假期餐廳營業額較去年跌一成/){.md-button .hkfd-news-button}

@@ -811,3 +811,10 @@
 - [屯門怡樂花園考慮有條件續聘宏業　須更新保證金證明及取回履約保證書](https://news.now.com/home/local/player?newsId=630506) [Original](https://news.now.com/home/local/player?newsId=630506){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/屯門怡樂花園考慮有條件續聘宏業-須更新保證金證明及取回履約保證書/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜獨立委員會成員到現場視察](https://news.now.com/home/local/player?newsId=630505) [Original](https://news.now.com/home/local/player?newsId=630505){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災獨立委員會成員到現場視察/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜紅十字會累收逾4.2億元捐款　通過專屬八達通卡向災民提供經濟等支援](https://news.now.com/home/local/player?newsId=630500) [Original](https://news.now.com/home/local/player?newsId=630500){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災紅十字會累收逾42億元捐款-通過專屬八達通卡向災民提供經濟等支援/){.md-button .hkfd-news-button}
+
+
+### 2025-12-24
+- [聖誕假期市道旺丁不旺財　有業界指港人消費模式改變](https://news.now.com/home/local/player?newsId=630678) [Original](https://news.now.com/home/local/player?newsId=630678){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聖誕假期市道旺丁不旺財-有業界指港人消費模式改變/){.md-button .hkfd-news-button}
+- [聖誕節市道旺丁不旺財　有業界指港人消費模式改變](https://news.now.com/home/local/player?newsId=630672) [Original](https://news.now.com/home/local/player?newsId=630672){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聖誕節市道旺丁不旺財-有業界指港人消費模式改變/){.md-button .hkfd-news-button}
+- [梁進：宏福苑大火影響社會氣氛四成訂枱取消　餐廳推平價餐單留客](https://news.now.com/home/local/player?newsId=630629) [Original](https://news.now.com/home/local/player?newsId=630629){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/梁進宏福苑大火影響社會氣氛四成訂枱取消-餐廳推平價餐單留客/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜「守望同行」計劃助130個喪親家庭處理後事及情緒支援](https://news.now.com/home/local/player?newsId=630598) [Original](https://news.now.com/home/local/player?newsId=630598){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災守望同行計劃助130個喪親家庭處理後事及情緒支援/){.md-button .hkfd-news-button}

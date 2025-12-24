@@ -266,3 +266,14 @@
 ### 2025-12-23
 - [宏福苑五級火｜政府向災民發放生活津貼及慰問殮葬金　已處理所有確認個案](https://www.dotdotnews.com/a/202512/23/AP694a9082e4b0c32d4f64137a.html) [Original](https://www.dotdotnews.com/a/202512/23/AP694a9082e4b0c32d4f64137a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火政府向災民發放生活津貼及慰問殮葬金-已處理所有確認個案/){.md-button .hkfd-news-button}
 - [（有片）宏福苑五級火｜香港紅十字會籌逾4.2億支援中長期復原　派2000餘張專屬八達通智慧賑災](https://www.dotdotnews.com/a/202512/23/AP694a634ae4b0c32d4f640fb9.html) [Original](https://www.dotdotnews.com/a/202512/23/AP694a634ae4b0c32d4f640fb9.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火香港紅十字會籌逾42億支援中長期復原-派2000餘張專屬八達通智慧賑災/){.md-button .hkfd-news-button}
+
+
+### 2025-12-21
+- [宏福苑五級火｜40億援助基金如何使用？麥美娟回應](https://www.dotdotnews.com/a/202512/21/AP69477225e4b0c32d4f63e165.html) [Original](https://www.dotdotnews.com/a/202512/21/AP69477225e4b0c32d4f63e165.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火40億援助基金如何使用麥美娟回應/){.md-button .hkfd-news-button}
+
+### 2025-12-22
+- [宏福苑五級火｜援助基金達約41億元　租金補助今起派發](https://www.dotdotnews.com/a/202512/22/AP69494c6ce4b0c32d4f63ff18.html) [Original](https://www.dotdotnews.com/a/202512/22/AP69494c6ce4b0c32d4f63ff18.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火援助基金達約41億元-租金補助今起派發/){.md-button .hkfd-news-button}
+
+### 2025-12-24
+- [消防巡查132棟商廈派376張通知書　另揪57廈無做年檢](https://www.dotdotnews.com/a/202512/24/AP694be3b2e4b0c32d4f642932.html) [Original](https://www.dotdotnews.com/a/202512/24/AP694be3b2e4b0c32d4f642932.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/消防巡查132棟商廈派376張通知書-另揪57廈無做年檢/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜警驗DNA發現1貓1狗遺骸　愛協聯絡飼主稍後領回](https://www.dotdotnews.com/a/202512/24/AP694bb0a5e4b0c32d4f6424c1.html) [Original](https://www.dotdotnews.com/a/202512/24/AP694bb0a5e4b0c32d4f6424c1.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火警驗dna發現1貓1狗遺骸-愛協聯絡飼主稍後領回/){.md-button .hkfd-news-button}

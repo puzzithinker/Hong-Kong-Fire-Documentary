@@ -4157,3 +4157,37 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-12-22 22:00:14 | INFO     | ensuring close
 2025-12-22 22:00:14 | INFO     | ensuring close
 2025-12-22 22:00:14 | INFO     | ensuring close
+2025-12-23 22:22:55 | INFO     | ============================================================
+2025-12-23 22:22:55 | INFO     | News Scraper Daemon Starting
+2025-12-23 22:22:55 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-23 22:22:55 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-23 22:22:55 | INFO     | Sync interval: 10 minutes
+2025-12-23 22:22:55 | INFO     | PR interval: 60 minutes
+2025-12-23 22:22:55 | INFO     | ============================================================
+2025-12-23 22:22:56 | INFO     | gh CLI authenticated
+2025-12-23 22:22:56 | INFO     | Setting up git remotes...
+2025-12-23 22:22:56 | INFO     | Configured origin remote
+2025-12-23 22:22:56 | INFO     | gh CLI authenticated
+2025-12-23 22:22:57 | INFO     | ----------------------------------------
+2025-12-23 22:22:57 | INFO     | Running periodic health check...
+2025-12-23 22:23:01 | INFO     | gh CLI authenticated
+2025-12-23 22:23:01 | INFO     | Health check passed
+2025-12-23 22:23:01 | INFO     | ----------------------------------------
+2025-12-23 22:23:01 | INFO     | Starting sync cycle...
+2025-12-23 22:23:02 | INFO     | Syncing with upstream...
+2025-12-23 22:23:02 | INFO     | Already up to date with upstream
+2025-12-23 22:23:02 | INFO     | Running scraper...
+2025-12-23 22:23:03 | INFO     | Found 73 new URLs to scrape
+2025-12-24 00:18:25 | ERROR    | Scraper error: BrowserContext.new_page: Target page, context or browser has been closed
+2025-12-24 00:18:25 | INFO     | Committing changes...
+2025-12-24 00:18:27 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-24 00:18
+2025-12-24 00:18:33 | INFO     | Pushed to origin successfully
+2025-12-24 00:18:33 | INFO     | Sync cycle complete
+2025-12-24 00:18:33 | INFO     | ----------------------------------------
+2025-12-24 00:18:33 | INFO     | Starting PR cycle...
+2025-12-24 00:18:34 | INFO     | Pushed to origin successfully
+2025-12-24 00:18:34 | INFO     | Managing PR...
+2025-12-24 00:18:35 | INFO     | PR #23 exists, updating description with fresh stats...
+2025-12-24 00:18:38 | INFO     | Updated PR #23 with fresh stats
+2025-12-24 00:18:38 | INFO     | PR cycle complete
+2025-12-24 00:18:38 | INFO     | Run once mode, exiting...
