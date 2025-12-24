@@ -41251,7 +41251,21 @@
       "source_file": "content/news/tvb/README.md",
       "scraped_at": "2025-12-24T22:57:33.396877",
       "archive_path": "content\\news\\tvb\\archive\\hong-kong-red-cross-allocates-400-million-donations-it-received-to-fire-victims"
+    },
+    "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251223/s00002/1766427809783": {
+      "title": "新議員元旦宣誓 最快1．7商宏福善後",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-25T00:03:27.462028",
+      "archive_path": "content\\news\\mingpao\\archive\\新議員元旦宣誓-最快17商宏福善後"
+    },
+    "https://news.mingpao.com/ins/%e7%86%b1%e9%bb%9e/article/20251213/s00024/1765617097243": {
+      "title": "短片：錦田鄉酬恩建醮巨型醮棚十年一度 市民冀竹棚不會消失 「仍存在時盡量欣賞」",
+      "source": "mingpao",
+      "source_file": "content/news/mingpao/README.md",
+      "scraped_at": "2025-12-25T00:03:33.093852",
+      "archive_path": "content\\news\\mingpao\\archive\\短片錦田鄉酬恩建醮巨型醮棚十年一度-市民冀竹棚不會消失-仍存在時盡量欣賞"
     }
   },
-  "last_updated": "2025-12-24T22:57:33.397056"
+  "last_updated": "2025-12-25T00:03:33.093926"
 }

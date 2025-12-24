@@ -1498,7 +1498,7 @@
 - [大埔火災獨立委員會成員到訪宏福苑](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251223/s00001/1766459600929) [Original](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251223/s00001/1766459600929){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔火災獨立委員會成員到訪宏福苑/){.md-button .hkfd-news-button}
 - [被捕宏業董事：災後難入眠 壓力大總要面對](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251223/s00002/1766427809200) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251223/s00002/1766427809200){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/被捕宏業董事災後難入眠-壓力大總要面對/){.md-button .hkfd-news-button}
 - [災民獲免費牙醫服務 包括外傭](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251223/s00002/1766427809305) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251223/s00002/1766427809305){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/災民獲免費牙醫服務-包括外傭/){.md-button .hkfd-news-button}
-- [新議員元旦宣誓 最快1．7商宏福善後](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251223/s00002/1766427809783)
+- [新議員元旦宣誓 最快1．7商宏福善後](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251223/s00002/1766427809783) [Original](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251223/s00002/1766427809783){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新議員元旦宣誓-最快17商宏福善後/){.md-button .hkfd-news-button}
 
 
 ### 20251210
@@ -1587,7 +1587,7 @@
 - [世間情 / 湯家驊](https://news.mingpao.com/pns/%e4%bd%9c%e5%ae%b6%e5%b0%88%e6%ac%84/article/20251212/s00018/1765468932549)
 
 ### 20251213
-- [短片：錦田鄉酬恩建醮巨型醮棚十年一度 市民冀竹棚不會消失 「仍存在時盡量欣賞」](https://news.mingpao.com/ins/%e7%86%b1%e9%bb%9e/article/20251213/s00024/1765617097243)
+- [短片：錦田鄉酬恩建醮巨型醮棚十年一度 市民冀竹棚不會消失 「仍存在時盡量欣賞」](https://news.mingpao.com/ins/%e7%86%b1%e9%bb%9e/article/20251213/s00024/1765617097243) [Original](https://news.mingpao.com/ins/%e7%86%b1%e9%bb%9e/article/20251213/s00024/1765617097243){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/短片錦田鄉酬恩建醮巨型醮棚十年一度-市民冀竹棚不會消失-仍存在時盡量欣賞/){.md-button .hkfd-news-button}
 - [天水圍天澤邨火警 51歲男戶主為疑犯 目前昏迷危殆未被捕](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251213/s00001/1765597292953)
 - [立法會選舉︱無效票數達回歸後新高 曾國衞：難就原因下定論](https://news.mingpao.com/ins/%e6%b8%af%e8%81%9e/article/20251213/s00001/1765613908048)
 - [維園市集試運 檔主稱環境佳料受惠工展人流](https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20251213/s00002/1765557965024)
