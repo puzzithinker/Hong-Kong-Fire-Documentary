@@ -579,3 +579,11 @@
 - [宏福苑5級火｜廣福商場聖誕氣氛不再　商戶對前路感茫然](https://www.881903.com/news/local/2611751/) [Original](https://www.881903.com/news/local/2611751/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火廣福商場聖誕氣氛不再-商戶對前路感茫然/){.md-button .hkfd-news-button}
 - [宏福苑5級火｜災民冀盡快安排長期居所　寄語珍惜身邊人](https://www.881903.com/news/local/2611806/) [Original](https://www.881903.com/news/local/2611806/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火災民冀盡快安排長期居所-寄語珍惜身邊人/){.md-button .hkfd-news-button}
 - [宏福苑5級火｜65傷者已出院　仍有14人留院情況穩定](https://www.881903.com/news/local/2611750/) [Original](https://www.881903.com/news/local/2611750/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火65傷者已出院-仍有14人留院情況穩定/){.md-button .hkfd-news-button}
+
+
+### 2025-12-26
+- [宏福苑5級火｜政府：已處理所有生活津貼及死者慰問金個案](https://www.881903.com/news/local/2611896/) [Original](https://www.881903.com/news/local/2611896/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火政府已處理所有生活津貼及死者慰問金個案/){.md-button .hkfd-news-button}
+- [甯漢豪：明年提出《建築物條例》修訂草案](https://www.881903.com/news/local/2611891/) [Original](https://www.881903.com/news/local/2611891/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/甯漢豪明年提出建築物條例修訂草案/){.md-button .hkfd-news-button}
+- [宏福苑5級火｜災民暫停社交生活　嘆失去安樂窩正適應新生活](https://www.881903.com/news/local/2611844/) [Original](https://www.881903.com/news/local/2611844/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火災民暫停社交生活-嘆失去安樂窩正適應新生活/){.md-button .hkfd-news-button}
+- [港府感謝各地政府及各界熱心支援宏福苑火災受影響人士](https://www.881903.com/news/local/2611884/) [Original](https://www.881903.com/news/local/2611884/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/港府感謝各地政府及各界熱心支援宏福苑火災受影響人士/){.md-button .hkfd-news-button}
+- [聖誕翌日灣仔市面人流不斷　有宏福苑居民冀港人平常心過節](https://www.881903.com/news/local/2611841/) [Original](https://www.881903.com/news/local/2611841/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聖誕翌日灣仔市面人流不斷-有宏福苑居民冀港人平常心過節/){.md-button .hkfd-news-button}

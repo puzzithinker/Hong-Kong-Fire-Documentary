@@ -4326,3 +4326,38 @@ playwright._impl._errors.TargetClosedError: Target page, context or browser has 
 2025-12-25 00:11:14 | INFO     | Updated PR #23 with fresh stats
 2025-12-25 00:11:14 | INFO     | PR cycle complete
 2025-12-25 00:11:14 | INFO     | Run once mode, exiting...
+2025-12-25 22:27:55 | INFO     | ============================================================
+2025-12-25 22:27:55 | INFO     | News Scraper Daemon Starting
+2025-12-25 22:27:55 | INFO     | Fork: hk-hack-007/Hong-Kong-Fire-Documentary-i
+2025-12-25 22:27:55 | INFO     | Upstream: adminlby/Hong-Kong-Fire-Documentary
+2025-12-25 22:27:55 | INFO     | Sync interval: 10 minutes
+2025-12-25 22:27:55 | INFO     | PR interval: 60 minutes
+2025-12-25 22:27:55 | INFO     | ============================================================
+2025-12-25 22:27:56 | INFO     | gh CLI authenticated
+2025-12-25 22:27:56 | INFO     | Setting up git remotes...
+2025-12-25 22:27:56 | INFO     | Configured origin remote
+2025-12-25 22:27:57 | INFO     | gh CLI authenticated
+2025-12-25 22:27:57 | INFO     | ----------------------------------------
+2025-12-25 22:27:57 | INFO     | Running periodic health check...
+2025-12-25 22:27:57 | INFO     | gh CLI authenticated
+2025-12-25 22:27:58 | INFO     | Health check passed
+2025-12-25 22:27:58 | INFO     | ----------------------------------------
+2025-12-25 22:27:58 | INFO     | Starting sync cycle...
+2025-12-25 22:27:58 | INFO     | Syncing with upstream...
+2025-12-25 22:27:58 | INFO     | Already up to date with upstream
+2025-12-25 22:27:58 | INFO     | Running scraper...
+2025-12-25 22:27:59 | INFO     | Found 33 new URLs to scrape
+2025-12-25 22:28:46 | INFO     | Updated cumulative stats: 1965 success, 97 failed across 18 cycles
+2025-12-25 22:28:46 | INFO     | Scraper results: 32 success, 1 failed
+2025-12-25 22:28:46 | INFO     | Committing changes...
+2025-12-25 22:28:47 | INFO     | Committed: chore(scraper): auto-scrape 2025-12-25 22:28
+2025-12-25 22:28:52 | INFO     | Pushed to origin successfully
+2025-12-25 22:28:52 | INFO     | Sync cycle complete
+2025-12-25 22:28:52 | INFO     | ----------------------------------------
+2025-12-25 22:28:52 | INFO     | Starting PR cycle...
+2025-12-25 22:28:53 | INFO     | Pushed to origin successfully
+2025-12-25 22:28:53 | INFO     | Managing PR...
+2025-12-25 22:28:57 | ERROR    | Failed to create PR: pull request create failed: GraphQL: No commits between adminlby:main and hk-hack-007:main (createPullRequest)
+
+2025-12-25 22:28:57 | INFO     | PR cycle complete
+2025-12-25 22:28:57 | INFO     | Run once mode, exiting...

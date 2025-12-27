@@ -286,3 +286,9 @@
 ### 2025-12-25
 - [飛常觀點｜立法會履新先解宏福苑善後　更要持續解決民生急難愁盼](https://www.dotdotnews.com/a/202512/25/AP694ce5b1e4b0c32d4f643740.html) [Original](https://www.dotdotnews.com/a/202512/25/AP694ce5b1e4b0c32d4f643740.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/飛常觀點立法會履新先解宏福苑善後-更要持續解決民生急難愁盼/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜消防處各工協會嚴厲譴責網上有人散布不實言論](https://www.dotdotnews.com/a/202512/25/AP694d22b1e4b0c32d4f643c16.html) [Original](https://www.dotdotnews.com/a/202512/25/AP694d22b1e4b0c32d4f643c16.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火消防處各工協會嚴厲譴責網上有人散布不實言論/){.md-button .hkfd-news-button}
+
+
+### 2025-12-26
+- [（有片）宏福苑五級火｜港台聯手遺體修復：與時間賽跑　讓破碎的告別變得「完整」](https://www.dotdotnews.com/a/202512/26/AP694cb6e9e4b0c32d4f6432cd.html) [Original](https://www.dotdotnews.com/a/202512/26/AP694cb6e9e4b0c32d4f6432cd.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/有片宏福苑五級火港台聯手遺體修復與時間賽跑-讓破碎的告別變得完整/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜援助基金已推出11個項目　總承擔額約12億元](https://www.dotdotnews.com/a/202512/26/AP694e8b22e4b0c32d4f644efb.html) [Original](https://www.dotdotnews.com/a/202512/26/AP694e8b22e4b0c32d4f644efb.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火援助基金已推出11個項目-總承擔額約12億元/){.md-button .hkfd-news-button}
+- [宏福苑五級火｜甯漢豪：明年提建築物條例修訂草案　竹棚過渡金屬棚不會「一刀切」](https://www.dotdotnews.com/a/202512/26/AP694e835fe4b0c32d4f644e9a.html) [Original](https://www.dotdotnews.com/a/202512/26/AP694e835fe4b0c32d4f644e9a.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火甯漢豪明年提建築物條例修訂草案-竹棚過渡金屬棚不會一刀切/){.md-button .hkfd-news-button}

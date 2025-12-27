@@ -256,3 +256,7 @@
 
 ### 2025-12-24
 - [香港大埔宏福苑火灾独立委员会视察屋苑现场](http://gba.people.cn/n1/2025/1224/c42272-40631226.html) [Original](http://gba.people.cn/n1/2025/1224/c42272-40631226.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/香港大埔宏福苑火灾独立委员会视察屋苑现场/){.md-button .hkfd-news-button}
+
+
+### 2025-12-26
+- [新华社香港12月25日电 香港特区政府医务卫生局25日表示，大埔宏福苑火灾中79名伤者在公立医院接受治疗。截至12月23日，65人先后康复出院，余下14人情况稳定。](http://gba.people.cn/n1/2025/1226/c42272-40632970.html) [Original](http://gba.people.cn/n1/2025/1226/c42272-40632970.html){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/新华社香港12月25日电-香港特区政府医务卫生局25日表示大埔宏福苑火灾中79名伤者在公立医院接受治疗截至12月23日65人先后康复出院余下14人情况稳定/){.md-button .hkfd-news-button}

@@ -190,3 +190,7 @@
 
 ### 2025-12-25
 - [Best of HKFP 2025: Our top features and most popular stories of the year](https://hongkongfp.com/?p=548330) [Original](https://hongkongfp.com/?p=548330){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/best-of-hkfp-2025-our-top-features-and-most-popular-stories-of-the-year/){.md-button .hkfd-news-button}
+
+
+### 2025-12-26
+- [‘Place of heartbreak’: One month since fatal fire, Wang Fuk Court residents reel from trauma, pondering their future](https://hongkongfp.com/?p=548434) [Original](https://hongkongfp.com/?p=548434){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/place-of-heartbreak-one-month-since-fatal-fire-wang-fuk-court-residents-reel/){.md-button .hkfd-news-button}

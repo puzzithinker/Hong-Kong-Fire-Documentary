@@ -818,3 +818,16 @@
 - [聖誕節市道旺丁不旺財　有業界指港人消費模式改變](https://news.now.com/home/local/player?newsId=630672) [Original](https://news.now.com/home/local/player?newsId=630672){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聖誕節市道旺丁不旺財-有業界指港人消費模式改變/){.md-button .hkfd-news-button}
 - [梁進：宏福苑大火影響社會氣氛四成訂枱取消　餐廳推平價餐單留客](https://news.now.com/home/local/player?newsId=630629) [Original](https://news.now.com/home/local/player?newsId=630629){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/梁進宏福苑大火影響社會氣氛四成訂枱取消-餐廳推平價餐單留客/){.md-button .hkfd-news-button}
 - [宏福苑五級火災｜「守望同行」計劃助130個喪親家庭處理後事及情緒支援](https://news.now.com/home/local/player?newsId=630598) [Original](https://news.now.com/home/local/player?newsId=630598){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災守望同行計劃助130個喪親家庭處理後事及情緒支援/){.md-button .hkfd-news-button}
+
+
+### 2025-12-24
+- [宏福苑五級火災｜警方再拘一男　為涉事大廈外牆工程分判商負責人](https://news.now.com/home/local/player?newsId=630694) [Original](https://news.now.com/home/local/player?newsId=630694){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災警方再拘一男-為涉事大廈外牆工程分判商負責人/){.md-button .hkfd-news-button}
+
+### 2025-12-25
+- [大埔宏福苑五級火災｜七旬夫婦遷入元朗過渡屋　一戶一社工承諾同行解困](https://news.now.com/home/local/player?newsId=630720) [Original](https://news.now.com/home/local/player?newsId=630720){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/大埔宏福苑五級火災七旬夫婦遷入元朗過渡屋-一戶一社工承諾同行解困/){.md-button .hkfd-news-button}
+- [天主教香港教區辦子夜彌撒　為世界和平宏福苑災民祈禱](https://news.now.com/home/local/player?newsId=630705) [Original](https://news.now.com/home/local/player?newsId=630705){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/天主教香港教區辦子夜彌撒-為世界和平宏福苑災民祈禱/){.md-button .hkfd-news-button}
+- [宏福苑五級火災｜七旬夫婦遷入元朗過渡屋　勉勵鄰居放開心情努力生活](https://news.now.com/home/local/player?newsId=630700) [Original](https://news.now.com/home/local/player?newsId=630700){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火災七旬夫婦遷入元朗過渡屋-勉勵鄰居放開心情努力生活/){.md-button .hkfd-news-button}
+
+### 2025-12-26
+- [政府感謝各地政府機構及社會各界熱心人士支援宏福苑火災受影響人士](https://news.now.com/home/local/player?newsId=630826) [Original](https://news.now.com/home/local/player?newsId=630826){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府感謝各地政府機構及社會各界熱心人士支援宏福苑火災受影響人士/){.md-button .hkfd-news-button}
+- [宏福苑災民冀市民開心過佳節　哽咽答謝港人伸援手](https://news.now.com/home/local/player?newsId=630798) [Original](https://news.now.com/home/local/player?newsId=630798){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑災民冀市民開心過佳節-哽咽答謝港人伸援手/){.md-button .hkfd-news-button}

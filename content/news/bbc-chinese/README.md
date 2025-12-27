@@ -62,3 +62,7 @@
 ### 2025-12-12
 
 - [<![CDATA[香港大埔火災下的外傭：遇難與生還的她們經歷了什麼？]]>](https://www.bbc.com/zhongwen/articles/cgqzz41n45lo/trad)
+
+
+### 2025-12-26
+- [<![CDATA[香港宏福苑大火一個月，災民在安置與搬遷漂流中尋找新家]]>](https://www.bbc.com/zhongwen/articles/cvg1d0d0z0zo/trad)
