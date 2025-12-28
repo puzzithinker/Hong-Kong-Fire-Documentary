@@ -29,6 +29,7 @@
 - [**香港理工大學 (PolyU)**](polyu/README.md)
 - [**TVBS新聞 (TVBS News)**](tvbs/README.md)
 - [**Pulse News**](pulse-news/README.md)
+- [**透視報 (True Report)**](true-report/README.md)
 
 ## 國際媒體 (International Media)
 
