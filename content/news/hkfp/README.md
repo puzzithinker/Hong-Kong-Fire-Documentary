@@ -194,3 +194,8 @@
 
 ### 2025-12-26
 - [‘Place of heartbreak’: One month since fatal fire, Wang Fuk Court residents reel from trauma, pondering their future](https://hongkongfp.com/?p=548434) [Original](https://hongkongfp.com/?p=548434){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/place-of-heartbreak-one-month-since-fatal-fire-wang-fuk-court-residents-reel/){.md-button .hkfd-news-button}
+
+
+### 2025-12-27
+- [Tai Po fire: Disasters affect not only humans – why pet evacuation planning is essential](https://hongkongfp.com/?p=547840) [Original](https://hongkongfp.com/?p=547840){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/tai-po-fire-disasters-affect-not-only-humans-why-pet-evacuation-planning-is/){.md-button .hkfd-news-button}
+- [2025 in Pictures: Sporting landmarks, panda twins, record-breaking weather and LGBT+ setbacks](https://hongkongfp.com/?p=543114) [Original](https://hongkongfp.com/?p=543114){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/2025-in-pictures-sporting-landmarks-panda-twins-record-breaking-weather-and/){.md-button .hkfd-news-button}

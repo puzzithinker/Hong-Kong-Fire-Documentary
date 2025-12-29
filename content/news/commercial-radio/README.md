@@ -587,3 +587,7 @@
 - [宏福苑5級火｜災民暫停社交生活　嘆失去安樂窩正適應新生活](https://www.881903.com/news/local/2611844/) [Original](https://www.881903.com/news/local/2611844/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑5級火災民暫停社交生活-嘆失去安樂窩正適應新生活/){.md-button .hkfd-news-button}
 - [港府感謝各地政府及各界熱心支援宏福苑火災受影響人士](https://www.881903.com/news/local/2611884/) [Original](https://www.881903.com/news/local/2611884/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/港府感謝各地政府及各界熱心支援宏福苑火災受影響人士/){.md-button .hkfd-news-button}
 - [聖誕翌日灣仔市面人流不斷　有宏福苑居民冀港人平常心過節](https://www.881903.com/news/local/2611841/) [Original](https://www.881903.com/news/local/2611841/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/聖誕翌日灣仔市面人流不斷-有宏福苑居民冀港人平常心過節/){.md-button .hkfd-news-button}
+
+
+### 2025-12-28
+- [各界取消聖誕聯歡活動　派對房間及到會生意減20至40%](https://www.881903.com/news/local/2611980/) [Original](https://www.881903.com/news/local/2611980/){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/各界取消聖誕聯歡活動-派對房間及到會生意減20至40/){.md-button .hkfd-news-button}

@@ -898,3 +898,7 @@
 - [宏福苑五級火｜大火發生一個月　政府感謝各界支援受影響人士](https://news.rthk.hk/rthk/ch/component/k2/1837602-20251226.htm?archive_date=2025-12-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837602-20251226.htm?archive_date=2025-12-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火大火發生一個月-政府感謝各界支援受影響人士/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜大火後一個月有居民尋租盤有困難　有代理免佣協助](https://news.rthk.hk/rthk/ch/component/k2/1837588-20251226.htm?archive_date=2025-12-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837588-20251226.htm?archive_date=2025-12-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火大火後一個月有居民尋租盤有困難-有代理免佣協助/){.md-button .hkfd-news-button}
 - [宏福苑五級火｜林正財稱家屬處理急切問題後或現哀傷情緒更須輔導](https://news.rthk.hk/rthk/ch/component/k2/1837568-20251226.htm?archive_date=2025-12-26) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837568-20251226.htm?archive_date=2025-12-26){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火林正財稱家屬處理急切問題後或現哀傷情緒更須輔導/){.md-button .hkfd-news-button}
+
+
+### 2025-12-27
+- [宏福苑五級火｜蕭澤宇稱有地產代理免費為災民尋租盤　感謝貢獻](https://news.rthk.hk/rthk/ch/component/k2/1837672-20251227.htm?archive_date=2025-12-27) [Original](https://news.rthk.hk/rthk/ch/component/k2/1837672-20251227.htm?archive_date=2025-12-27){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑五級火蕭澤宇稱有地產代理免費為災民尋租盤-感謝貢獻/){.md-button .hkfd-news-button}

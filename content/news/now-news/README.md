@@ -831,3 +831,7 @@
 ### 2025-12-26
 - [政府感謝各地政府機構及社會各界熱心人士支援宏福苑火災受影響人士](https://news.now.com/home/local/player?newsId=630826) [Original](https://news.now.com/home/local/player?newsId=630826){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/政府感謝各地政府機構及社會各界熱心人士支援宏福苑火災受影響人士/){.md-button .hkfd-news-button}
 - [宏福苑災民冀市民開心過佳節　哽咽答謝港人伸援手](https://news.now.com/home/local/player?newsId=630798) [Original](https://news.now.com/home/local/player?newsId=630798){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/宏福苑災民冀市民開心過佳節-哽咽答謝港人伸援手/){.md-button .hkfd-news-button}
+
+
+### 2025-12-27
+- [指定實驗室驗市面棚網八成不合格　燃燒時間逾40秒超標十倍](https://news.now.com/home/local/player?newsId=630888) [Original](https://news.now.com/home/local/player?newsId=630888){.md-button .md-button--primary .hkfd-news-button} [Archive](archive/指定實驗室驗市面棚網八成不合格-燃燒時間逾40秒超標十倍/){.md-button .hkfd-news-button}
